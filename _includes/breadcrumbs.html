@@ -1,0 +1,11 @@
+{% case page.category %}
+  {% when 'proj-00' %}{% assign title = "PROJ 00" %}
+  {% when 'proj-01' %}{% assign title = "PROJ 01" %}
+  {% else %}{% assign title = "" %}
+{% endcase %}
+
+<section class="list-wrapper breadcrumbs-container">
+  <a href="{{ site.baseurl }}/" class="breadcrumb-item">HOME</a> >
+  <a href=".." class="breadcrumb-item">{{ title }}</a> >
+  <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
+</section>
