@@ -400,39 +400,12 @@ a {
 .post-list, .home-list {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
   width: 100%;
 
-  .list-item {
-    display: block;
-    position: relative;
-    width: 80%;
-    overflow: hidden;
-    margin: 0 auto 24px;
-    min-height: 200px;
-    min-width: 260px;
-
-    @include media-query(DESKTOP) {
-      width: 45%;
-      margin: 0 0 24px;
-    }
-
-    &:hover {
-      .list-item-image.hover-contrast {
-        transition: filter $TRANSITION-PERIOD linear;
-        filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
-      }
-    }
-  }
-
-  .project-item {
-    @include media-query(DESKTOP) {
-      width: 20%;
-      min-width: 150px;
-      height: 20vw;
-      min-height: 120px;
-      max-height: 230px;
+  &:hover {
+    .list-item-image.hover-contrast {
+      transition: filter $TRANSITION-PERIOD linear;
+      filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
     }
   }
 
@@ -480,6 +453,50 @@ a {
   }
 }
 
+.home-list {
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .list-item {
+    display: block;
+    position: relative;
+    width: 31%;
+    overflow: hidden;
+    margin: 4px 1%;
+
+    @include media-query(DESKTOP) {
+      width: 18%;
+      height: 100%;
+      margin: 4px 1%;
+    }
+  }
+
+  .list-item-image {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100%;
+  }
+}
+
+.post-list {
+  justify-content: space-between;
+
+  .list-item {
+    display: block;
+    position: relative;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto 24px;
+    min-height: 200px;
+    min-width: 260px;
+
+    @include media-query(DESKTOP) {
+      width: 45%;
+      margin: 0 0 24px;
+    }
+  }
+}
+
 .people-list {
   margin: 0;
 }
@@ -500,25 +517,6 @@ a {
 }
 .project-person + .project-person {
   margin-top: 5px;
-}
-
-.home-list {
-  justify-content: center;
-
-  .list-item {
-    width: 80%;
-    min-height: 200px;
-    min-width: 260px;
-
-    @include media-query(DESKTOP) {
-      width: 700px;
-      min-height: 256px;
-    }
-  }
-
-  .list-item-image {
-    height: 100%;
-  }
 }
 
 .footer {

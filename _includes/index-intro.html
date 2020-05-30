@@ -7,7 +7,7 @@
 
   {% for p in site.data.partners %}
     {% unless p.name == 'Silo' %}
-      <a href="{{ p.link }}" target="_blank">{{ p.name | upcase }}</a>
+      <a href="{{ p.link }}" target="_blank">{{ p.name | upcase }}</a>,
     {% endunless %}
   {% endfor %}
 
