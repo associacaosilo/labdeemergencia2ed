@@ -10,6 +10,7 @@ cache:
 
 install:
   - bundle install --deployment
+  - gem install jekyll
 
 script:
     - cd ..
