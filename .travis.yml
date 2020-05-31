@@ -3,7 +3,13 @@ language: ruby
 notifications:
   email: false
 
-before_install:
+cache:
+  bundler: true
+  directories:
+    - vendor/bundle
+    
+install:
+  - gem install date_validator
   - gem environment
 script:
   - echo 'hi'
