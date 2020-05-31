@@ -6,11 +6,10 @@ notifications:
 cache:
   bundler: true
   directories:
-    - tmp/cache/assets
     - vendor/bundle
 
 install:
-  - bundle install
+  - bundle install --deployment
 
 script:
     - cd ..
