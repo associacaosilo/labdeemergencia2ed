@@ -1,8 +1,12 @@
 language: ruby
-cache: bundler
 
 notifications:
   email: false
+
+cache:
+  bundler: true
+  directories:
+    - tmp/cache/assets
 
 install:
   - bundle install
