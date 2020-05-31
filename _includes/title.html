@@ -1,5 +1,8 @@
 <section class="list-wrapper title-section">
   <a href="{{ site.baseurl }}/">
-    <h2 class="main-title">{{ site.title | upcase}}:<br>{{ site.subtitle }}</h2>
+    <h2 class="main-title">
+      {{ site.data.phrases.title[PAGE_LANGUAGE] | upcase}}:<br>
+      {{ site.data.phrases.subtitle[PAGE_LANGUAGE] }}
+    </h2>
   </a>
 </section>

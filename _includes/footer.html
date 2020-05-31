@@ -1,5 +1,7 @@
 <div class="footer">
-  <div class="footer-line">Laboratório de Emergência 2020</div>
+  <div class="footer-line">
+    {{ site.data.phrases.title[PAGE_LANGUAGE] }}
+  </div>
   <a class="footer-line" href="{{ site.social['envelope-o'] }}" target="_blank">
     {{ site.social['envelope-o'] | replace:'mailto:','' }}
   </a>
@@ -10,9 +12,11 @@
   -->
 </div>
 
-{% if page.permalink == '/' %}
+{% if page.permalink == '/' or page.permalink == '/es/' %}
   <div class="footer">
-    <div class="footer-line">Uma iniciativa em parceria entre:</div>
+    <div class="footer-line">
+      {{ site.data.phrases.partners[PAGE_LANGUAGE] }}
+    </div>
     <div class="footer-line footer-line-parcerias">
       {% for p in site.data.partners %}
         <a href="{{ p.link }}" target="_blank">

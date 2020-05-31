@@ -1,9 +1,9 @@
 <p>
-  Que tal se juntar a pessoas que acreditam na colaboração e na inovação para enfrentar essa epidemia? Que tal efetivamente ajudar a construir soluções?
+  {{ site.data.phrases.index_intro_0[PAGE_LANGUAGE] }}
 </p>
 
 <p>
-  A <a href="https://silo.org.br" target="_blank">SILO ARTE E LATITUDE RURAL</a>  junto a 
+  <a href="https://silo.org.br" target="_blank">SILO ARTE E LATITUDE RURAL</a>  junto a 
 
   {% for p in site.data.partners %}
     {% unless p.name == 'Silo' %}
@@ -11,5 +11,5 @@
     {% endunless %}
   {% endfor %}
 
-  apresenta o Laboratório de Emergência, focado em iniciativas que pensam soluções frente a pandemia da COVID 19 para periferias e áreas rurais.
+  {{ site.data.phrases.index_intro_1[PAGE_LANGUAGE] }}
 </p>

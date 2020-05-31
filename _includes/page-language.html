@@ -1,0 +1,7 @@
+{% if page.language %}
+  {% assign PAGE_LANGUAGE = page.language %}
+{% elsif page.url contains 'es' %}
+  {% assign PAGE_LANGUAGE = 'es' %}
+{% else %}
+  {% assign PAGE_LANGUAGE = 'pt' %}
+{% endif %}
