@@ -402,10 +402,12 @@ a {
   flex-direction: row;
   width: 100%;
 
-  &:hover {
-    .list-item-image.hover-contrast {
-      transition: filter $TRANSITION-PERIOD linear;
-      filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
+  .list-item {
+    &:hover {
+      .list-item-image.hover-contrast {
+        transition: filter $TRANSITION-PERIOD linear;
+        filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
+      }
     }
   }
 
