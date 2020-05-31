@@ -5,10 +5,10 @@ proponent:
   - name: Fulana de tal
     url: https://silo.org.br
 cover: media/images/covers/proj-01.jpg
-permalink: /proj-01/
+permalink: /pt/proj-01/
 people:
   - name: Silo Latitude
     url: https://www.instagram.com/silo.arte.e.latitude.rural/
 ---
 
-Projeto prohejto projeto projteto
+<< TEXTO EM PT >>

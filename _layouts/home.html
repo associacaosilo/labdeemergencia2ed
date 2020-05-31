@@ -15,15 +15,17 @@
       </section>
       <section class="list-wrapper">
         <div class="home-list">
-          {% assign projets = site.pages | where:"layout", "list" %}
-          {% for projet in projets %}
-            {% assign pCover = site.baseurl | append: '/' | append: projet.cover %}
-            <a class="list-item" href="{{ site.baseurl }}{{ projet.url }}">
-              <div class="list-item-image hover-contrast"
-                   style="background-image: url('{{ pCover }}');"></div>
-              <div class="tint-overlay"></div>
-              <div class="list-item-title">{{ projet.title }}</div>
-            </a>
+          {% assign projects = site.pages | where:"layout", "list" %}
+          {% for project in projects %}
+            {% if project.url contains PAGE_LANGUAGE %}
+              {% assign pCover = site.baseurl | append: '/' | append: project.cover %}
+              <a class="list-item" href="{{ site.baseurl }}{{ project.url }}">
+                <div class="list-item-image hover-contrast"
+                     style="background-image: url('{{ pCover }}');"></div>
+                <div class="tint-overlay"></div>
+                <div class="list-item-title">{{ project.title }}</div>
+              </a>
+            {% endif %}
           {% endfor %}
         </div>
       </section>

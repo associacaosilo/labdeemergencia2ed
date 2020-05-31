@@ -36,7 +36,7 @@
         </div>
       </section>
       <section class="list-wrapper">
-        <h2>Proponente</h2>
+        <h2>{{ site.data.phrases.proponent[PAGE_LANGUAGE] }}</h2>
         <ul class="people-list">
           {% for person in page.proponent %}
             <li class="project-person">
@@ -44,7 +44,7 @@
             </li>
           {% endfor %}
         </ul>
-        <h2>Colaboradoras</h2>
+        <h2>{{ site.data.phrases.collaborators[PAGE_LANGUAGE] }}</h2>
         <ul class="people-list">
           {% for person in page.people %}
             <li class="project-person">
