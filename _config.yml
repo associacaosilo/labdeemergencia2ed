@@ -6,8 +6,19 @@ subtitle: 'SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES
 url: https://labdeemergencia.silo.org.br
 baseurl: '/2ed'
 silo_url: https://silo.org.br
-permalink: :categories/:title/
+permalink: :collection/:title/
 include: ['_pages']
+
+collections_dir: posts
+collections:
+  projeto-00:
+    title: Projeto 00
+    permalink: :collection/:title/
+    output: true
+  projeto-01:
+    title: Projeto 01
+    permalink: :collection/:title/
+    output: true
 
 # Build settings
 markdown: kramdown
@@ -19,13 +30,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "pages"
     values:
       layout: "post"
 
