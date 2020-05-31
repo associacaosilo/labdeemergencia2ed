@@ -1,8 +1,9 @@
 <section class="list-wrapper title-section">
-  <a href="{{ site.baseurl }}/">
+  <a href="{{ site.baseurl }}/{{ PAGE_LANGUAGE }}">
     <h2 class="main-title">
       {{ site.data.phrases.title[PAGE_LANGUAGE] | upcase}}:<br>
       {{ site.data.phrases.subtitle[PAGE_LANGUAGE] }}
     </h2>
   </a>
+  {% include language-menu.html %}
 </section>

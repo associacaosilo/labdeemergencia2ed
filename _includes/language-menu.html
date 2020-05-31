@@ -1,0 +1,16 @@
+<div class="language-menu">
+  {% assign url = page.url %}
+  {% if page.url == '/' %}
+    {% assign url = '/pt/' %}
+  {% endif %}
+
+  {% assign languages = "en,es,pt" | split:"," %}
+  {% for lang in languages %}
+    {% assign class = '' %}
+    {% if lang == PAGE_LANGUAGE %}
+      {% assign class = ' language-selected' %}
+    {% endif %}
+
+    <a class="language{{ class }}" href="{{ site.baseurl }}{{ url | replace:PAGE_LANGUAGE,lang }}">{{ lang }}</a>
+  {% endfor %}
+</div>

@@ -5,9 +5,10 @@
   <a href="{{ site.baseurl }}/">
     <h2 class="main-title">
       {{ site.data.phrases.title[PAGE_LANGUAGE] | upcase}}:<br>
-      {{ site.data.phrases.subtitle[PAGE_LANGUAGE] }}
     </h2>
   </a>
+  {% include language-menu.html %}
+
   <div id="menu-retratil-mobile" class="menu-hide">
     <div id="hide-menu-mobile" class="menu-icon hide-menu">✖</div>
     <a class="menu-title" href="{{ site.silo_url }}/" target="_blank">
