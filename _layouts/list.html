@@ -22,8 +22,12 @@
       <section class="list-wrapper">
         <h2>Posts</h2>
         <div class="post-list">
-          {% assign slug = page.permalink | replace: '/', '' %}
-          {% assign posts = site.posts | where:"category", slug %}
+          {% assign slug = page.title | slugify %}
+
+          {% assign posts = site.posts |
+                            where_exp:"page","page.path contains slug" |
+                            where_exp:"page","page.language contains PAGE_LANGUAGE" %}
+
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
