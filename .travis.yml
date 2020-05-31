@@ -5,12 +5,10 @@ notifications:
 
 cache:
   bundler: true
-  directories:
-    - vendor/bundle
     
 install:
-  - gem install date_validator
-  - gem environment
+  - bundle install
+
 script:
   - echo 'hi'
 
