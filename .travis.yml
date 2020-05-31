@@ -6,12 +6,10 @@ notifications:
 cache:
   bundler: true
   directories:
-    - vendor/bundle
     - /home/travis/build/associacaosilo/labdeemergencia2ed/vendor/bundle
 
 install:
   - bundle install
-  - gem install jekyll
 
 script:
     - cd ..
