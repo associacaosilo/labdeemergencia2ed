@@ -19,7 +19,8 @@
     {% if lang_pages.size > 0 %}
       {% assign lang_url = lang_pages.first.url %}
     {% else %}
-      {% assign lang_url = url | replace:PAGE_LANGUAGE,lang %}
+      {% assign PAGE_LANGUAGE_match = PAGE_LANGUAGE | append:"/" %}
+      {% assign lang_url = url | replace:PAGE_LANGUAGE_match,lang_match %}
     {% endif %}
 
     <a class="language{{ class }}" href="{{ site.baseurl }}{{ lang_url }}">{{ lang }}</a>

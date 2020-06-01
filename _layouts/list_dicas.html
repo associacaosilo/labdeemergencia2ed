@@ -11,28 +11,23 @@
       {% include title.html %}
       <section class="content-text content-container">
         <h2 class="list-title">{{ page.title }}</h2>
-        <img src="{{ site.baseurl }}/{{ page.cover }}">
         {{ content }}
-      </section>
-      <section class="list-wrapper">
-        <h2>Posts</h2>
-        <div class="post-list">
+
+        <ul class="list">
           {% assign slug = page.title | slugify %}
 
-          {% assign posts = site.documents |
-                             where:"collection",slug |
-                             where_exp:"page","page.language contains PAGE_LANGUAGE" %}
+          {% assign posts = site.pages |
+                             where_exp:"post","post.url contains slug" |
+                             where_exp:"post","post.url contains PAGE_LANGUAGE" |
+                             where_exp:"post","post.url != page.url" %}
 
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
-            <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
-              <div class="list-item-image hover-contrast"
-                   style="background-image: url('{{ pCover }}');"></div>
-              <div class="tint-overlay"></div>
-              <div class="list-item-title">{{ post.title }}</div>
-            </a>
+            <li><a class="" href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+            </a></li>
           {% endfor %}
-        </div>
+        </ul>
       </section>
       <section class="list-wrapper">
         <h2>{{ site.data.phrases.proponent[PAGE_LANGUAGE] }}</h2>
