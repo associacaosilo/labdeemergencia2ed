@@ -11,6 +11,17 @@
       {% assign class = ' language-selected' %}
     {% endif %}
 
-    <a class="language{{ class }}" href="{{ site.baseurl }}{{ url | replace:PAGE_LANGUAGE,lang }}">{{ lang }}</a>
+    {% assign lang_match = lang | append: "/" %}
+    {% assign lang_pages = site.pages |
+                           where:"name",page.name |
+                           where_exp:"item","item.permalink contains lang_match" %}
+
+    {% if lang_pages.size > 0 %}
+      {% assign lang_url = lang_pages.first.url %}
+    {% else %}
+      {% assign lang_url = url | replace:PAGE_LANGUAGE,lang %}
+    {% endif %}
+
+    <a class="language{{ class }}" href="{{ site.baseurl }}{{ lang_url }}">{{ lang }}</a>
   {% endfor %}
 </div>
