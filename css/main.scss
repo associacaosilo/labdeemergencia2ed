@@ -14,7 +14,7 @@ body {
   margin: 0 auto;
   padding: 0;
   width: 100%;
-  background-color: $BACKGROUND;
+  background-color: $BACKGROUND-COLOR;
 
   font: normal $TEXT-SIZE-MOBILE $FONT-TEXT;
   color: $TEXT-COLOR;
@@ -290,16 +290,16 @@ a {
       }
 
       &:hover {
-        color: $BACKGROUND;
+        color: $$MENU-TEXT-COLOR;
       }
     }
 
     .language.language-selected {
-      color: $BACKGROUND;
+      color: $MENU-TEXT-COLOR;
       cursor: default;
       user-select: none;
       pointer-events: none;
-      border-bottom: 3px solid $BACKGROUND;
+      border-bottom: 3px solid $MENU-TEXT-COLOR;
     }
   }
 }
