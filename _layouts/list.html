@@ -14,15 +14,18 @@
         <img src="{{ site.baseurl }}/{{ page.cover }}">
         {{ content }}
       </section>
+
+      {% assign slug = page.title | slugify %}
+
+      {% assign posts = site.documents |
+                         where:"collection",slug |
+                         where_exp:"page","page.language contains PAGE_LANGUAGE" %}
+
       <section class="list-wrapper">
-        <h2>Posts</h2>
+        {% if posts.size > 0%}
+          <h2>Posts</h2>
+        {% endif %}
         <div class="post-list">
-          {% assign slug = page.title | slugify %}
-
-          {% assign posts = site.documents |
-                             where:"collection",slug |
-                             where_exp:"page","page.language contains PAGE_LANGUAGE" %}
-
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
