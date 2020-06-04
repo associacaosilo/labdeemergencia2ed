@@ -1,13 +1,5 @@
 <title>{{ page.title }}</title>
 
-{% if page.subtitle %}
-  {% assign subtitle = page.subtitle %}
-{% else %}
-  {% assign subtitle = page.content | strip_html | truncatewords: 25 %}
-{% endif %}
-
-<meta name="description" content="{{site.title}} - {{subtitle}}">
-<meta name="keywords" content="art, arte, latitude, rural, laboratorio, ciencia">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; media-src 'self'; frame-src player.vimeo.com freesound.org w.soundcloud.com www.soundcloud.com www.mixcloud.com www.youtube.com www.youtube-nocookie.com; frame-ancestors 'self'; script-src 'self' ajax.googleapis.com; font-src 'self' data: maxcdn.bootstrapcdn.com fonts.googleapis.com fonts.gstatic.com; style-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com fonts.googleapis.com; base-uri 'self'; form-action 'self';">
