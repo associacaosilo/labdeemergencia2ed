@@ -5,10 +5,6 @@ subtitle: RECONFIGURANDO O FUTURO
 permalink: /
 ---
 
-**2º Laboratório de Emergência | COVID 19**
-RECONFIGURANDO O FUTURO
-
-
 A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} e o [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, em parceria com [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"},[Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, Lab Coco, [Datalabe](https://datalabe.org/){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"},
 [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"},[Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"},[MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"},[Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"},[Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} present:
 
@@ -32,7 +28,7 @@ FAÇA [AQUI](/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_bl
 Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/aVSeVZ793wgiNiQd7){:target="_blank"}
   
   
-Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  labdeemergencia@silo.org.br 
+Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
 ou acesse [PERGUNTAS FREQUENTES](/perguntas){:target="_blank"}
 
 ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA – REALIZADO EM MARÇO DE 2020 NA ESPANHA.
