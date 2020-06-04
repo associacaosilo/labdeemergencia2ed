@@ -10,7 +10,7 @@ Aqui responderemos todas as perguntas que foram feitas sobre o laboratório ao l
     
 ---
 
-**Para que serve o laboratório de emercência?**
+**Para que serve o laboratório de emergência?**
   
 * Conectar as ideias com o um número grande de colaboradores 
 * Fazer a divulgação dessas iniciativas
