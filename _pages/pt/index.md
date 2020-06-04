@@ -1,14 +1,38 @@
 ---
 layout: home
-title: Laboratório de Emergência | COVID 19
-subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES DE ISOLAMENTO
+title: 2º Laboratório de Emergência | COVID 19
+subtitle: RECONFIGURANDO O FUTURO
 permalink: /
 ---
 
-Realizado por meio de chamadas abertas para projetos e colaboradores, o Lab busca soluções de enfrentamento ao coronavírus sobretudo nas periferias. A função do Lab é conectar as ideias com um número grande de colaboradores, fazer a divulgação dessas iniciativas, ajudar na estruturação delas para que possam ser replicáveis e ainda oferecer plantões, uma espécie de mentoria em diversas áreas. O Laboratório de Emergência é um evento realizado totalmente online, por meio de grupos de trabalhos autogeridos, usando plataformas de chat, vídeo chamada, áudio e streaming.
+**2º Laboratório de Emergência | COVID 19**
+RECONFIGURANDO O FUTURO
 
-O lab se desenrola durante cinco dias de trabalho remoto, em grupos multidisciplinares, formados por artistas, cientistas, profissionais de tecnologia, comunicadores, lideranças comunitárias e quem mais quiser colaborar.
 
-O Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados atinjam o maior número possível de pessoas. Para tal eles trabalham sob a lógica participativa usando de licenças livres que permitam replicação e adaptação dos projetos a outros contextos.
+A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} e o [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, em parceria com [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"},[Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, Lab Coco, [Datalabe](https://datalabe.org/){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"},
+[Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"},[Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"},[MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"},[Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"},[Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} present:
 
-Conheça, no site da Silo, outros laboratórios que realizamos: [Interactivos](https://silo.org.br/interactivos). Esta chamada foi inspirada na Convocatória do Laboratório Cidadão Distribuído Frena La Curva, realizado em março deste ano na Espanha.
+A **2ª edição do Laboratório de Emergência | COVID–19 | Reconfigurando o futuro** onde serão selecionadas 15 propostas para serem desenvolvidas com o aporte de colaboradoras/es, desenvolvedoras/es e mentoras/es em um laboratório solidário online, a se realizar do **15 ao 19 de junho de 2020**. 
+
+
+**Calendário:**
+  
+* Chamada de projetos      | 05.06 a 08.06 (6ª a 2ª feira)
+* Seleção de projetos      | 09.06 e 10.06
+* Chamada de colaboradores | 11.06 a 13.06 (5ª feira a sábado)
+* Estruturação das equipes | 14.06 (domingo)
+* Laboratório              | 15.06 a 19.06 (2ª a 6ª feira) 
+* Apresentações            | 20.06 e 21.06 (sábado e domingo)
+
+
+
+FAÇA [AQUI](/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
+
+
+Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/aVSeVZ793wgiNiQd7){:target="_blank"}
+  
+  
+Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  labdeemergencia@silo.org.br 
+ou acesse [PERGUNTAS FREQUENTES](/perguntas){:target="_blank"}
+
+ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA – REALIZADO EM MARÇO DE 2020 NA ESPANHA.
