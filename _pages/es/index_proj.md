@@ -25,10 +25,10 @@ permalink: /es/
 [CONVOCATORIA COMPLETA](/2ed/media/docs/ES_PROYECTOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} 
 
 
-Envía tu propuesta utilizando este [FORMULARIO](https://forms.gle/aVSeVZ793wgiNiQd7){:target="_blank"}
+Envía tu propuesta utilizando este [FORMULARIO](https://forms.gle/Um6df22x2TugfjpP8){:target="_blank"}
   
   
 Preguntas o problemas con el formulario, contáctenos por correo electrónico:  **labdeemergencia@silo.org.br** 
-o acceda a las [PREGUNTAS FRECUENTES](/2ed/dicas/perguntas-frequentes){:target="_blank"}
+o acceda a las [PREGUNTAS FRECUENTES](/2ed/pt/dicas/perguntas-frequentes){:target="_blank"}
 
 ESTA CONVOCATORIA SE INSPIRÓ EN LA CONVOCATORIA DE LABORATORIO CIUDADANO DISTRIBUIDO - FRENA LA CURVA - CELEBRADA EN MARZO 2020 EN ESPAÑA.
