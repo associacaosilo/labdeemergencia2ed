@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Laboratório de Emergência | COVID 19
-subtitle: RECONFIGURANDO O FUTURO
 permalink: /
 ---
 
