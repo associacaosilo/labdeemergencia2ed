@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PERGUNTAS SOBRE O LAB
+title: PERGUNTAS SOBRE A CONVOCATÓRIA DE PROJETOS
 permalink: /pt/dicas/perguntas-frequentes/
 ---
 
@@ -62,7 +62,7 @@ O Laboratório de Emergência é uma proposta colaborativa que busca que os proj
 
  
 Links externos projetos desenvolvidos na primeira edição do lab:
-https://labdeemergencia.silo.org.br/1ed/
+[https://labdeemergencia.silo.org.br/1ed/](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
 
 
-Caso sua dúvida não tenha sido respondida, por favor envie um email para: labdeemergencia@silo.org.br
+Caso sua dúvida não tenha sido respondida, por favor envie um email para: **labdeemergencia@silo.org.br**

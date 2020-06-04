@@ -20,7 +20,7 @@ The **2nd Edition of the Emergency Lab _ COVID-19 _ Reconfiguring the Future**, 
 * **Presentations _** June 20-21 (Sat-Sun)
 
 
-DOWNLOAD THE CALL [HERE](/2ed/media/docs/EN_PROJECTS_CALL_EMERGENCY_LAB.pdf){:target="_blank"}
+DOWNLOAD THE CALL [HERE](/2ed/pt/media/docs/EN_PROJECTS_CALL_EMERGENCY_LAB.pdf){:target="_blank"}
 
 
 And apply through this [FORM](https://forms.gle/Tuk6kLsRmqhQew8P7){:target="_blank"}
