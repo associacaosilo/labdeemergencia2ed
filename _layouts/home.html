@@ -19,6 +19,7 @@
                                where:"layout","list" |
                                where_exp:"page","page.url contains PAGE_LANGUAGE" %}
 
+          {% if site.showprojectsonhome %}
           {% for project in projects %}
             {% assign pCover = site.baseurl | append: '/' | append: project.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ project.url }}">
@@ -28,6 +29,7 @@
               <div class="list-item-title">{{ project.title }}</div>
             </a>
           {% endfor %}
+          {% endif %}
         </div>
       </section>
     </div>
