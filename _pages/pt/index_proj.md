@@ -2,7 +2,7 @@
 layout: home
 title: 2º Laboratório de Emergência | COVID 19
 subtitle: RECONFIGURANDO O FUTURO
-permalink: /
+permalink: /pt/
 ---
 
 A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} e o [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, em parceria com [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"}, [Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, Lab Coco, [Datalabe](https://datalabe.org/){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"},
