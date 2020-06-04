@@ -2,7 +2,7 @@
 
 {% if mc.size > 0 %}
   {% assign title = mc.first.title %}
-  {% assign url = "/" | append: page.language | append: "/" | append: mc.first.label %}
+  {% assign url = "/" | append: PAGE_LANGUAGE | append: "/" | append: mc.first.label %}
 {% else %}
   {% assign mc = site.pages |
                  where_exp:"post","page.url contains post.url" |
@@ -14,7 +14,7 @@
 {% endif %}
 
 <section class="list-wrapper breadcrumbs-container">
-  <a href="{{ site.baseurl }}/{{ page.language }}" class="breadcrumb-item">HOME</a> >
+  <a href="{{ site.baseurl }}/{{ PAGE_LANGUAGE }}" class="breadcrumb-item">HOME</a> >
   <a href="{{ site.baseurl }}{{ url }}" class="breadcrumb-item">{{ title }}</a> >
   <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
 </section>

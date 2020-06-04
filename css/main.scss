@@ -452,7 +452,7 @@ a {
     position: absolute;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(227,133,110,.4), rgba(227,133,110,.6));
+    background: linear-gradient($SITE-ACCENT-COLOR-GRADIENT-0, $SITE-ACCENT-COLOR-GRADIENT-1);
   }
 
   .hidden-link {
