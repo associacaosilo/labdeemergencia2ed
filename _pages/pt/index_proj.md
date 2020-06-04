@@ -20,7 +20,7 @@ A **2ª edição do Laboratório de Emergência _ COVID–19 _ Reconfigurando o 
 
 
 
-FAÇA [AQUI](/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
+FAÇA [AQUI](/2ed/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
 
 
 Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/aVSeVZ793wgiNiQd7){:target="_blank"}

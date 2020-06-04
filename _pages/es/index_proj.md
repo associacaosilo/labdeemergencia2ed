@@ -22,7 +22,7 @@ permalink: /es/
 
 
 
-[CONVOCATORIA COMPLETA](/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} 
+[CONVOCATORIA COMPLETA](/2ed/media/docs/PT_CHAMADA_PROJETOS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} 
 
 
 Envía tu propuesta utilizando este [FORMULARIO](https://forms.gle/aVSeVZ793wgiNiQd7){:target="_blank"}
