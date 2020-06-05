@@ -14,7 +14,7 @@ The **2nd Edition of the Emergency Lab _ COVID-19 _ Reconfiguring the Future**, 
 
 **CALENDAR:**
   
-* **Open call for projects _** June 5-8 (Fri-Mon)
+* **Open call for projects _** June 5-8 (Fri–Mon)
 * **Selection of projects _** June 9-10 (Tue-Wed)
 * **Call for collaborators _** June 11-13 (Thu-Sat)
 * **Assembling of teams _** June 14 (Sun)
