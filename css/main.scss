@@ -355,6 +355,10 @@ a {
   text-transform: lowercase;
 }
 
+.main-div.home-main-div {
+  background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_abacate.png);
+}
+
 .main-div {
   display: block;
   width: 80%;
@@ -364,6 +368,11 @@ a {
   @include media-query(DESKTOP) {
     width: 100%;
     margin: $MENU-HEIGHT auto $RESPONSIVE-SPACING;
+
+    background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_verde.png);
+    background-repeat: no-repeat;
+    background-size: 45%;
+    background-position: right bottom;
   }
 
   section + section {

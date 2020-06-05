@@ -20,6 +20,7 @@
           {% assign posts = site.pages |
                              where_exp:"post","post.url contains slug" |
                              where_exp:"post","post.url contains PAGE_LANGUAGE" |
+                             where_exp:"post","post.published == true" |
                              where_exp:"post","post.url != page.url" %}
 
           {% for post in posts %}
@@ -31,22 +32,6 @@
         </ul>
       </section>
       <section class="list-wrapper">
-        <h2>{{ site.data.phrases.proponent[PAGE_LANGUAGE] }}</h2>
-        <ul class="people-list">
-          {% for person in page.proponent %}
-            <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        <h2>{{ site.data.phrases.collaborators[PAGE_LANGUAGE] }}</h2>
-        <ul class="people-list">
-          {% for person in page.people %}
-            <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
         {% include share.html %}
       </section>
     </div>
