@@ -4,4 +4,3 @@ title: DICAS
 permalink: /pt/dicas/
 ---
 
-<< TEXTO EM PT >>
