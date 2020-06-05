@@ -5,7 +5,7 @@ title: PERGUNTAS SOBRE A CONVOCATÓRIA DE PROJETOS
 permalink: /pt/dicas/perguntas-frequentes/
 ---
 
-
+![](/2ed/media/images/covers/perguntas.png)
   
 **Meu projeto integrou a 1ª edição do Lab de Emergência. Posso inscrevê-lo para a 2ª edição?**
   
