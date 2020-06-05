@@ -29,5 +29,5 @@ Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/aVSeVZ793wgiNiQd7){:t
   
   
 Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
-ou acesse [PERGUNTAS FREQUENTES](/2ed/dicas/perguntas-frequentes){:target="_blank"}
+ou acesse [PERGUNTAS FREQUENTES](/2ed/pt/dicas/perguntas-frequentes){:target="_blank"}
 
