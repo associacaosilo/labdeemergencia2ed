@@ -61,8 +61,9 @@ O Laboratório de Emergência é uma proposta colaborativa que busca que os proj
   
 ---
 
+
  
-Links externos projetos desenvolvidos na primeira edição do lab:
+Confira os projetos desenvolvidos na primeira edição do Lab de Emergência:
 [https://labdeemergencia.silo.org.br/1ed/](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
 
 
