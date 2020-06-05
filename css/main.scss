@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  position: relative;
   margin: 0 auto;
   padding: 0;
   width: 100%;
@@ -355,8 +356,26 @@ a {
   text-transform: lowercase;
 }
 
-.main-div.home-main-div {
+.main-div-background.main-div-background-home {
   background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_abacate.png);
+}
+
+.main-div-background {
+  display: none;
+  @include media-query(DESKTOP) {
+    display: block;
+    position: fixed;
+    z-index: -10;
+    top: $MENU-HEIGHT;
+    right: -30%;
+    width: 100%;
+    height: 100%;
+
+    background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_verde.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right center;
+  }
 }
 
 .main-div {
@@ -370,13 +389,8 @@ a {
     flex-direction: column;
     justify-content: space-between;
     width: 100%;
-    margin: $MENU-HEIGHT auto $RESPONSIVE-SPACING;
-
     min-height: 100vh;
-    background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_verde.png);
-    background-repeat: no-repeat;
-    background-size: 45%;
-    background-position: right bottom;
+    margin: $MENU-HEIGHT auto $RESPONSIVE-SPACING;
   }
 
   section + section {
