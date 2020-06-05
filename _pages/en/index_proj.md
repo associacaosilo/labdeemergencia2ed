@@ -27,5 +27,3 @@ And apply through this [FORM](https://forms.gle/Tuk6kLsRmqhQew8P7){:target="_bla
   
   
 For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](/2ed/dicas/perguntas-frequentes){:target="_blank"}
-
-THIS INITIATIVE WAS INSPIRED BY THE OPEN CALL HELD BY THE DISTRIBUTED CITIZEN LAB - FRENA LA CURVA – CARRIED OUT IN MARCH 2020 IN SPAIN.

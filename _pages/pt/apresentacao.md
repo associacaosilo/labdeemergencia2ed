@@ -5,9 +5,10 @@ permalink: /pt/dicas/apresentacao/
 ---
 
 
+
 Orientações para apresentação do vídeo final:
 
-* **Data de envio:** 01.05.2020
+* **Data de envio:** 19.06.2020
     
 * **Horário de envio:** 17h
   

@@ -30,5 +30,3 @@ Envía tu propuesta utilizando este [FORMULARIO](https://forms.gle/Um6df22x2Tugf
   
 Preguntas o problemas con el formulario, contáctenos por correo electrónico:  **labdeemergencia@silo.org.br** 
 o acceda a las [PREGUNTAS FRECUENTES](/2ed/pt/dicas/perguntas-frequentes){:target="_blank"}
-
-ESTA CONVOCATORIA SE INSPIRÓ EN LA CONVOCATORIA DE LABORATORIO CIUDADANO DISTRIBUIDO - FRENA LA CURVA - CELEBRADA EN MARZO 2020 EN ESPAÑA.
