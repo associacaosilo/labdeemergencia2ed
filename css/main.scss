@@ -366,9 +366,13 @@ a {
   margin: $MENU-MOBILE-HEIGHT auto $RESPONSIVE-SPACING;
 
   @include media-query(DESKTOP) {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     width: 100%;
     margin: $MENU-HEIGHT auto $RESPONSIVE-SPACING;
 
+    min-height: 100vh;
     background-image: url({{ site.baseurl }}/media/images/covers/apoio_00_verde.png);
     background-repeat: no-repeat;
     background-size: 45%;

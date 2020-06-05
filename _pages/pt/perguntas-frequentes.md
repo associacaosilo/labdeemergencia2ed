@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: PERGUNTAS SOBRE A CONVOCATÓRIA DE PROJETOS
 permalink: /pt/dicas/perguntas-frequentes/
 ---
