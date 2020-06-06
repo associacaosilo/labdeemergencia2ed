@@ -28,4 +28,4 @@ DOWNLOAD THE CALL [HERE](/2ed/media/docs/EN_PROJECTS_CALL_EMERGENCY_LAB.pdf){:ta
 And apply through this [FORM](https://forms.gle/Tuk6kLsRmqhQew8P7){:target="_blank"}
   
   
-For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](/2ed/pt/dicas/perguntas-frequentes){:target="_blank"}
+For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](/2ed/pt/dicas/perguntas-frequentes)
