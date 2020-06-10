@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Móvel Livre: plataforma de difusão de móveis e objetos para espaços domésticos e comuns
+title: 'Móvel Livre: plataforma de difusão de móveis e objetos para espaços domésticos e comuns'
 proponent:
   - name: OCO [Juliana Sicuro e Vitor Garcez] + Linha [Paula Daemon] - Rio de Janeiro 
     url: 
