@@ -13,7 +13,9 @@
       {% include title.html %}
       <section class="content-text content-container">
         <h2 class="list-title">{{ page.title }}</h2>
-        <img src="{{ site.baseurl }}/{{ page.cover }}">
+        {% if page.cover.size > 0 %}
+          <img src="{{ site.baseurl }}/{{ page.cover }}">
+        {% endif %}
         {{ content }}
       </section>
 

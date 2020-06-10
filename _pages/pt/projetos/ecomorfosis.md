@@ -5,7 +5,7 @@ proponent:
   - name: Camila Picco - Rosário, Argentina. 
     url: 
 cover:
-permalink: /pt/incubadora-de-sonhos/
+permalink: /pt/ecomorfosis/
 people:
   - name: 
     url: 

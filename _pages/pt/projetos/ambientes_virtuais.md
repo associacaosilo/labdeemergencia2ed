@@ -5,7 +5,7 @@ proponent:
   - name: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges - Belo Horizonte, MG
     url: 
 cover: media/images/covers/proj-00.jpg
-permalink: /pt/projeto-negritar/
+permalink: /pt/ambientes-virtuais/
 people:
   - name: 
     url: 
