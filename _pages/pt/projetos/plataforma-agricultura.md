@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Construção de uma plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais'
+title: 'Plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais'
 proponent:
   - name: Marcos Vinícius  - Brasília, DF
     url: ''

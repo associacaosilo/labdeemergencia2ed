@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Construction of a communications platform for the agents of production and consumption of organic and agroforestry products'
+title: 'Communications platform for the agents of production and consumption of organic and agroforestry products'
 proponent:
   - name: Marcos Vinícius  - Brasília, DF
     url: ''
