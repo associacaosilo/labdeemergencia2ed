@@ -4,7 +4,7 @@ title: Redes Comunitárias para Ambientes Virtuais de Aprendizagem
 proponent:
   - name: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges - Belo Horizonte, MG
     url: 
-cover: media/images/covers/proj-00.jpg
+cover:
 permalink: /pt/ambientes-virtuais/
 people:
   - name: 
