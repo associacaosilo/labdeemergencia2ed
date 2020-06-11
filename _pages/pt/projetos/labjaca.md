@@ -1,6 +1,6 @@
 ---
 layout: list
-title: E como fica o nosso lazer? Criminalização, renda e pandemia. A realidade e o futuro dos bailes funks e de quem os produz.
+title: 'Criminalização, renda e pandemia. A realidade e o futuro dos bailes funks e de quem os produz.'
 proponent:
   - name: Bruno Sousa | LabJaca - Rio de Janeiro
     url: 
@@ -10,6 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+**E como fica o nosso lazer? Criminalização, renda e pandemia. A realidade e o futuro dos bailes funks e de quem os produz.**
 
 **PERFIL DE COLABORADORES:**
   

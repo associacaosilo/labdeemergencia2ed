@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Playful and educational activities to teach sustainability and environment	concepts in a family setting: an alternative education model for children 	during social isolation caused by COVID-19.
+title: 'Ecomorfosis: Playful and educational activities to teach sustainability and environment	concepts'
 proponent:
   - name: Camila Picco - Rosário, Argentina. 
     url: 
@@ -10,6 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+**Playful and educational activities to teach sustainability and environment concepts in a family setting: an alternative education model for children 	during social isolation caused by COVID-19.**
 
 **PROFILE OF COLLABORATORS:**
   

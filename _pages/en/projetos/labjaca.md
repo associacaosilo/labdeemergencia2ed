@@ -1,6 +1,6 @@
 ---
 layout: list
-title: What about our leisure? Criminalization, income and the pandemic. The reality and future of Brazilian funk parties and those who produce them.
+title: 'Criminalization, income and the pandemic. The reality and future of Brazilian funk parties and those who produce them.'
 proponent:
   - name: Bruno Sousa | LabJaca - Rio de Janeiro
     url: 
@@ -10,6 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+**What about our leisure? Criminalization, income and the pandemic. The reality and future of Brazilian funk parties and those who produce them. **
 
 **PROFILE OF COLLABORATORS:**
   

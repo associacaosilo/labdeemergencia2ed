@@ -1,6 +1,6 @@
 ---
 layout: list
-title: ¿Qué pasa con nuestras fiestas? Criminalización, ingresos y pandemia. La realidad y el futuro de los Bailes Funk y quién los produce.
+title: 'Criminalización, ingresos y pandemia. La realidad y el futuro de los Bailes Funk y quién los produce.'
 proponent:
   - name: Bruno Sousa | LabJaca - Rio de Janeiro
     url: 
@@ -10,6 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+**¿Qué pasa con nuestras fiestas? Criminalización, ingresos y pandemia. La realidad y el futuro de los Bailes Funk y quién los produce.**
 
 **PERFIL DE LAS/OS COLABORADORES: **
   
