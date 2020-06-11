@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 2º Laboratório de Emergência | COVID 19
-permalink: /pt/
+permalink: /pt/index-proj/
 ---
 
 ![](/2ed/media/images/covers/chamada_projetos_pt.png)

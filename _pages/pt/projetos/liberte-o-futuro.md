@@ -4,7 +4,7 @@ title: Cinco propostas para adiar o fim do mundo - Plataforma Liberte o Futuro
 proponent:
   - name: Raquel Rosenberg - São Paulo 
     url: 
-cover: media/images/covers/proj-00.jpg
+cover:
 permalink: /pt/projeto-liberte-o-futuro/
 people:
   - name: 

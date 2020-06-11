@@ -4,7 +4,7 @@ title: E como fica o nosso lazer? Criminalização, renda e pandemia. A realidad
 proponent:
   - name: Bruno Sousa | LabJaca - Rio de Janeiro
     url: 
-cover: media/images/covers/proj-00.jpg
+cover: 
 permalink: /pt/projeto-labjaca/
 people:
   - name: 

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 2nd Emergency Laboratory | COVID 19
-permalink: /en/index-col/
+permalink: /en
 ---
 
 ![](/2ed/media/images/covers/titulo_colab_en.png)
@@ -16,11 +16,10 @@ Applications can be submitted until **June 13** by collaborators who wish to par
 See below the projects that will be developed.
 
 
-DOWNLOD [HERE](/2ed/media/docs/EN_COLABS_CALL_EMERGENCY_LAB.pdf){:target="_blank"} 
+DOWNLOAD THE CALL [HERE](/2ed/media/docs/EN_COLABS_CALL_EMERGENCY_LAB.pdf){:target="_blank"} 
 
 
 And apply through this [FORM](https://forms.gle/kMsNVwmZPGWvqnC67){:target="_blank"}
   
   
-Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
-ou acesse [PERGUNTAS FREQUENTES](/2ed/pt/dicas/perguntas-frequentes-colabs)
+For questions or issues with the form, please get in touch by email: **labdeemergencia@silo.org.br** or visit the [FREQUENTLY ASKED QUESTIONS](/2ed/pt/dicas/perguntas-frequentes-colabs)

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 2nd Emergency Laboratory | COVID 19
-permalink: /en/
+permalink: /en/index-proj/
 ---
 
 ![](/2ed/media/images/covers/chamada_projetos_en.png)
