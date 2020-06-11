@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Atividades lúdicas e educativas para aprender conceitos de sustentabilidade e meio ambiente em família como modelo de educação alternativo para crianças durante o isolamento social pela COVID 19.
+title: 'Ecomorfosis: Atividades lúdicas e educativas para aprender conceitos de sustentabilidade e meio ambiente'
 proponent:
   - name: Camila Picco - Rosário, Argentina. 
     url: 
@@ -10,6 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+**Atividades lúdicas e educativas para aprender conceitos de sustentabilidade e meio ambiente em família como modelo de educação alternativo para crianças durante o isolamento social pela COVID 19.**
 
 **PERFIL DE COLABORADORES:**
   
