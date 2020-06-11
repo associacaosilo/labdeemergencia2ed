@@ -6,19 +6,20 @@ permalink: /en/index-col/
 
 ![](/2ed/media/images/covers/titulo_colab_en.png)
 
-A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} e o [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, em parceria com [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"}, [Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, **Lab Coco**, [Datalabe](https://datalabe.org/){:target="_blank"}, [Coletivo Etinerancias](https://www.instagram.com/etinerancias){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"}, [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"},[MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"}, [Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} apresentam:
+[Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} and [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, in partnership with [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"},[Careables](https://www.careables.org/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, **Lab Coco**, [Datalabe](https://datalabe.org/){:target="_blank"}, [Coletivo Etinerancias](https://www.instagram.com/etinerancias){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"},
+[Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"},[Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} present:
 
-2ª Edição do Laboratório de Emergência | COVID–19 onde serão desenvolvidas 15 propostas com o aporte de colaborador.s, desenvolvedor.s e mentor.s em um laboratório solidário online, a se realizar do 15 ao 19 de junho de 2020. 
+The **2nd Edition of the Emergency Lab _ COVID–19**, in which 15 proposals will be developed between **June 15-19, 2020** with the contribution of collaborators, developers and mentors in an online solidarity lab.
 
-Até o dia **13 de junho**, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
+Applications can be submitted until **June 13** by collaborators who wish to participate directly in the development of projects and initiatives aimed at fighting COVID-19. They will work and make decisions alongside a team.
 
-Confira abaixo os projetos que serão desenvolvidos.
-
-
-E FAÇA [AQUI](/2ed/media/docs/PT_CHAMADA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
+See below the projects that will be developed.
 
 
-Inscreva-se por meio deste [FORMULÁRIO](https://forms.gle/ebZfwFVpYPMooWzN6){:target="_blank"}
+DOWNLOD [HERE](/2ed/media/docs/EN_COLABS_CALL_EMERGENCY_LAB.pdf){:target="_blank"} 
+
+
+And apply through this [FORM](https://forms.gle/kMsNVwmZPGWvqnC67){:target="_blank"}
   
   
 Em caso de dúvidas ou problemas com o formulário, entre em contato por email:  **labdeemergencia@silo.org.br** 
