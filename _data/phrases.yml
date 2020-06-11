@@ -30,3 +30,11 @@ collaborators:
   pt: 'Colaboradoras'
   es: 'Colaboradoras'
   en: 'Collaborators'
+previous:
+  pt: 'Projeto anterior'
+  es: 'Proyecto anterior'
+  en: 'Previous project'
+next:
+  pt: 'Projeto seguinte'
+  es: 'Proyecto seguinte'
+  en: 'Next project'

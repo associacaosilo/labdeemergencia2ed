@@ -668,6 +668,32 @@ i.fa-1_5x {
   }
 }
 
+.prev-next-container {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  @include media-query(DESKTOP) {
+    max-width: 700px;
+  }
+
+  .prev-next {
+    text-transform: uppercase;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid $TEXT-COLOR;
+    background-color: $BACKGROUND-COLOR;
+  }
+
+  .prev-next-hide-0 {
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+  }
+}
+
 .share-container {
   margin-top: 35px;
   h3.share-title {
