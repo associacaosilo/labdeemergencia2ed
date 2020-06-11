@@ -16,10 +16,10 @@
       </section>
       <section class="list-wrapper">
         <div class="home-list">
+          {% assign PAGE_LANGUAGE_MATCH = PAGE_LANGUAGE | prepend: '/' | append: '/' %}
           {% assign projects = site.pages |
                                where:"layout","list" |
-                               where_exp:"page","page.url contains PAGE_LANGUAGE" %}
-
+                               where_exp:"page","page.url contains PAGE_LANGUAGE_MATCH" %}
 
           {% for project in projects %}
             {% assign pCover = site.baseurl | append: '/' | append: project.cover %}

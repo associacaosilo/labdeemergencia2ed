@@ -11,7 +11,7 @@ people:
     url: 
 ---
 
-**Playful and educational activities to teach sustainability and environment concepts in a family setting: an alternative education model for children 	during social isolation caused by COVID-19.**
+**Playful and educational activities to teach sustainability and environment concepts in a family setting: an alternative education model for children during social isolation caused by COVID-19.**
 
 **PROFILE OF COLLABORATORS:**
   
