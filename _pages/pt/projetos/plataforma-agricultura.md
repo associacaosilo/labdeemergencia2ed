@@ -1,23 +1,24 @@
 ---
 layout: list
-title: Construção de uma plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais
+title: 'Construção de uma plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais'
 proponent:
-  - name: Marcos Vinícius  - Brasília, DF.
-    url: 
- - name: Lauana Vieira dos Santos
-    url: 
- - name: Juan Enrique de Araújo Batista
-    url: 
- - name: Ícaro Abreu
-    url: 
- - name: Sanderson Cesar Macedo Barbalho
-    url: 
- - name: Gabriela Viana Silva
-    url: 
- - name: Francisco Iranildo Rodrigues
-    url: 
- - name: Marcos Vinicius Miranda Cruz
-cover:
+  - name: Marcos Vinícius  - Brasília, DF
+    url: ''
+  - name: Lauana Vieira dos Santos
+    url: ''
+  - name: Juan Enrique de Araújo Batista
+    url: ''
+  - name: Ícaro Abreu
+    url: ''
+  - name: Sanderson Cesar Macedo Barbalho
+    url: ''
+  - name: Gabriela Viana Silva
+    url: ''
+  - name: Francisco Iranildo Rodrigues
+    url: ''
+  - name: Marcos Vinicius Miranda Cruz
+    url: ''
+cover: ''
 permalink: /pt/plataforma-agricultura/
 people:
   - name: 
@@ -32,3 +33,5 @@ Desenvolvedoras/es web e app; gestoras/es de cooperativas; integrantes de CSA; p
   
 Criação de um App que integra consumidoras/es e produtoras/es voltado ao comércio da produção agroecológica de populações rurais.
 Um app inclusivo para possibilitar a participação da juventude no ambiente tecnológico, a divulgação de produtos de mulheres que residem em ambiente familiar rural e outros espaço de divulgação e comercialização sem a necessidade de atravessadores, possibilitando a maximização da renda. As populações rurais do Distrito Federal, majoritariamente negra, ou produtores agroecológicos, majoritariamente mulheres, circundam o meio urbano e tem dificuldade de escoar produtos em canais de comercialização que não sejam feiras.
+
+---
