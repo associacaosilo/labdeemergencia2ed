@@ -49,7 +49,11 @@
         <ul class="people-list">
           {% for person in page.proponent %}
             <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% if person.url and person.url != '' %}
+                <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% else %}
+                {{ person.name }}
+              {% endif %}
             </li>
           {% endfor %}
         </ul>
@@ -57,7 +61,11 @@
         <ul class="people-list">
           {% for person in page.people %}
             <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% if person.url and person.url != '' %}
+                <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+              {% else %}
+                {{ person.name }}
+              {% endif %}
             </li>
           {% endfor %}
         </ul>

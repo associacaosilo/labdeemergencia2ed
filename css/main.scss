@@ -586,6 +586,9 @@ a {
 
 .project-person {
   list-style-type: none;
+  color: $LINK-COLOR;
+  font-size: 20px;
+  font-family: "Font3";
 
   a {
     color: $LINK-COLOR;
