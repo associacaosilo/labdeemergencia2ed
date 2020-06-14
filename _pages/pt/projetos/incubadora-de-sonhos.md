@@ -2,7 +2,7 @@
 layout: list
 title: Incubadora de Sonhos Virtual
 proponent:
-  - name: Tatiane Vieira de Jesus - Brasília, DF
+  - name: Tatiane Vieira de Jesus, Mangala Bloch e Josy Almeida - Brasília, DF
     url: 
 cover:
 permalink: /pt/incubadora-de-sonhos/
