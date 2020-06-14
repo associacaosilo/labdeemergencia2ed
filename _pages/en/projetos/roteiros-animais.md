@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Animal scripts
+title: Animal Scripts
 proponent:
   - name: Célia Serrano | Crescente Fértil e Instituto Esperança dos Anjos - Serrinha do Alambari, Resende, RJ
     url: 
