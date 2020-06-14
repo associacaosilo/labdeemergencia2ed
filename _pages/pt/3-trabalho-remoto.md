@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: TRABALHO REMOTO
-permalink: /pt/dicas/3-trabalho-a-distancia/
+permalink: /pt/dicas/trabalho-remoto/
 ---
 
 

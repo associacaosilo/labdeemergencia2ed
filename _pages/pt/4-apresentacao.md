@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: VÍDEO | APRESENTAÇÃO FINAL
-permalink: /pt/dicas/4-apresentacao/
+permalink: /pt/dicas/video-apresentacao/
 ---
 
 
