@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: PERGUNTAS SOBRE O LAB
-permalink: /pt/dicas/perguntas/
+permalink: /pt/dicas/1-perguntas/
 ---
 
 Aqui responderemos todas as perguntas que foram feitas sobre o laboratório ao longo do processo 
