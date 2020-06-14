@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: PERGUNTAS SOBRE A CONVOCATÓRIA DE COLABORADORAS/ES
 permalink: /pt/dicas/perguntas-frequentes-colabs/
 ---

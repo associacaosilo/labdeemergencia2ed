@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: TRABALHO REMOTO
 permalink: /pt/dicas/trabalho-a-distancia/
 ---

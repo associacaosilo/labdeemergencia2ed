@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: VÍDEO | APRESENTAÇÃO FINAL
 permalink: /pt/dicas/apresentacao/
 ---
@@ -14,8 +15,8 @@ Orientações para apresentação do vídeo final:
   
   Organizaremos os vídeos para publicação à partir das 19h no canal da Silo no youtube!
   
-* **Tempo máximo para apresentação:** 10 min
-Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo, 10 minutos.
+* **Tempo máximo para apresentação:** 5 min
+Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo, 5 minutos.
   
 
 --- 
