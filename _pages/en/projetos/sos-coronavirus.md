@@ -1,6 +1,6 @@
 ---
 layout: list
-title: S.O.S Coronavírus
+title: SOS Coronavirus
 proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
     url: 
