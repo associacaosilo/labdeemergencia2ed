@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 2º Laboratório de Emergência _ COVID 19
-permalink: /pt/
+permalink: /pt/index-colab/
 ---
 
 ![](/2ed/media/images/covers/titulo_colab_port.png)
