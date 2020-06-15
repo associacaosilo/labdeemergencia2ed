@@ -8,3 +8,10 @@ permalink: /es/
 [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"}, [Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} presentan:
 
 **2ª Edición del Laboratorio de Emergencia _ COVID - 19 _ Reconfigurando el Futuro** tiene 16 propuestas seleccionadas para ser desarrolladas con la contribución de colaboradoras/es, desarrolladoras/es y mentoras/es en un laboratorio de solidaridad online, que se realizará del **15 al 19 de junio de 2020**.
+
+
+**LIVE DE EMERGENCIA**
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oI8ndlAp_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

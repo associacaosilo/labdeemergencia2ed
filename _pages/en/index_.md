@@ -8,3 +8,10 @@ permalink: /en/
 [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"},[Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} present:
 
 The **2nd Edition of the Emergency Lab _ COVID–19**, in which 16 proposals will be developed between **June 15-19, 2020** with the contribution of collaborators, developers and mentors in an online solidarity lab.
+
+
+**EMERGENCY LIVE**
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oI8ndlAp_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
