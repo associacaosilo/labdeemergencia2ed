@@ -8,8 +8,8 @@ A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} junto a
 
 **2ª Edição do Laboratório de Emergência _ COVID–19** onde serão desenvolvidas 16 propostas com o aporte de colaborador.s, desenvolvedor.s e mentor.s em um laboratório solidário online, a se realizar do **15 ao 19 de junho de 2020**. 
 
-**LIVE DE EMERGÊNCIA**
+**LIVES DE EMERGÊNCIA:**
 
-<div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oI8ndlAp_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[ABERTURA DO LAB – 15.06 – 17H](https://www.youtube.com/watch?v=oI8ndlAp_6c&feature=emb_title)
+Com Cinthia Mendonça e Georgia Nicolau
+Mediação: Marcela Martins

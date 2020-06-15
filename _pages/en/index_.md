@@ -10,8 +10,8 @@ permalink: /en/
 The **2nd Edition of the Emergency Lab _ COVID–19**, in which 16 proposals will be developed between **June 15-19, 2020** with the contribution of collaborators, developers and mentors in an online solidarity lab.
 
 
-**EMERGENCY LIVE**
+**EMERGENCY LIVES**
 
-<div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oI8ndlAp_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[OPPENING LAB – 15.06 – 17H](https://www.youtube.com/watch?v=oI8ndlAp_6c&feature=emb_title)
+With Cinthia Mendonça and Georgia Nicolau
+Mediação: Marcela Martins

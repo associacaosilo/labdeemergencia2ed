@@ -10,8 +10,8 @@ permalink: /es/
 **2ª Edición del Laboratorio de Emergencia _ COVID - 19 _ Reconfigurando el Futuro** tiene 16 propuestas seleccionadas para ser desarrolladas con la contribución de colaboradoras/es, desarrolladoras/es y mentoras/es en un laboratorio de solidaridad online, que se realizará del **15 al 19 de junio de 2020**.
 
 
-**LIVE DE EMERGENCIA**
+**LIVES DE EMERGENCIA**
 
-<div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oI8ndlAp_6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[ABERTURA DO LAB – 15.06 – 17H](https://www.youtube.com/watch?v=oI8ndlAp_6c&feature=emb_title)
+Con Cinthia Mendonça y Georgia Nicolau
+Mediación: Marcela Martins
