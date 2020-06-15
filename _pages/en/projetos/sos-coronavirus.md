@@ -5,7 +5,7 @@ proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
     url: 
 cover:
-permalink: /es/sos-coronavirus/
+permalink: /en/sos-coronavirus/
 people:
   - name: 
     url: 
