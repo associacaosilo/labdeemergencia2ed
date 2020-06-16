@@ -10,41 +10,50 @@ permalink: /es/
 **2ª Edición del Laboratorio de Emergencia _ COVID - 19 _ Reconfigurando el Futuro** tiene 16 propuestas seleccionadas para ser desarrolladas con la contribución de colaboradoras/es, desarrolladoras/es y mentoras/es en un laboratorio de solidaridad online, que se realizará del **15 al 19 de junio de 2020**.
 
 
-**LIVES DE EMERGENCIA**
+## LIVES DE EMERGENCIA
 
 [ABERTURA DO LAB – 15.06 – 17H](https://www.youtube.com/watch?v=oI8ndlAp_6c&feature=emb_title)
 Con Cinthia Mendonça y Georgia Nicolau
 Mediación: Marcela Martins
-  
+    
+  ---
+    
 [Educação na pandemia – 16.06 – 17H](https://www.youtube.com/watch?v=NyuOxL33dqI&feature=youtu.be)
-Participantes: 
+**Participantes:**
 _ Taís Rocha Ribeiro (E-leiturinha app) + 
 _ Ênio Oliveira (Diretor da Escola Municipal Moacir Coelho da Silveira | Serrinha do Alambari) + 
 _ Fred Paulino (Gambiologia)
+**Mediadora:** 
+Marcela Martins (Jornalista)
   
-Mediadora: Marcela Martins (Jornalista).
+---
   
 [Bailes Funk pós pandemia  – 17.06 – 17H](https://www.youtube.com/watch?v=Et4vz77e-N4&feature=youtu.be)
-Participantes: 
+**Participantes:**
 _ Bruno Sousa (LabJaca) +
 _ Taisa Machado (Afrofunk) +
 _ Carlos Palombini (Pesquisador do Proibidão).
-  
-Mediadora: Marcela Martins (Jornalista). 
-  
+**Mediadora:** 
+Marcela Martins (Jornalista)
+   
+---
+   
 [Saúde e Tecnologia – 18.06 – 17H](https://www.youtube.com/watch?v=QwYD1MfnXms&feature=youtu.be)
-Participantes: 
+**Participantes:**
 _ Rodolfo Aragão de Lira (S.O.S. Coronavírus) +
 _ Bruna Silveira (Agentes Populares de Saúde - Uneafro / Médica de Família e Homeopata) +
 _ Ricardo Ruiz (Careables / Lab Coco)
   
-Mediadora: Marcela Martins (Jornalista).
+**Mediadora:** 
+Marcela Martins (Jornalista)
+    
+---
   
 [Mudança Climática e Pandemia – 19.06 – 17H](https://www.youtube.com/watch?v=I6RHzYbDB3o&feature=youtu.be)
-Participantes: 
+**Participantes:**
 _Raquel Rosenberg (Plataforma Liberte o Futuro) +
 _Bernardo Esteves (Jornalista de Ciência da Piauí) +
 _Pablo Borges de Amorim (Doutor em Ciências Naturais / Ciência no Bar)
-  
-Mediadora: Marcela Martins (Jornalista).
+**Mediadora:** 
+Marcela Martins (Jornalista)
   
