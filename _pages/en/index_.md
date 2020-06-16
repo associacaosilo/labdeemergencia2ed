@@ -22,9 +22,9 @@ Mediação: Marcela Martins
 [Educação na pandemia – 16.06 – 17H](https://www.youtube.com/watch?v=NyuOxL33dqI&feature=youtu.be)
   
 **Participantes:**
-_ Taís Rocha Ribeiro (E-leiturinha app) + 
-_ Ênio Oliveira (Diretor da Escola Municipal Moacir Coelho da Silveira | Serrinha do Alambari) + 
-_ Fred Paulino (Gambiologia)
+* Taís Rocha Ribeiro (E-leiturinha app) + 
+* Ênio Oliveira (Diretor da Escola Municipal Moacir Coelho da Silveira | Serrinha do Alambari) + 
+* Fred Paulino (Gambiologia)
   
 **Mediadora:** 
 Marcela Martins (Jornalista)
@@ -34,9 +34,9 @@ Marcela Martins (Jornalista)
 [Bailes Funk pós pandemia  – 17.06 – 17H](https://www.youtube.com/watch?v=Et4vz77e-N4&feature=youtu.be)
   
 **Participantes:**
-_ Bruno Sousa (LabJaca) +
-_ Taisa Machado (Afrofunk) +
-_ Carlos Palombini (Pesquisador do Proibidão).
+* Bruno Sousa (LabJaca) +
+* Taisa Machado (Afrofunk) +
+* Carlos Palombini (Pesquisador do Proibidão).
   
 **Mediadora:** 
 Marcela Martins (Jornalista)
@@ -46,9 +46,9 @@ Marcela Martins (Jornalista)
 [Saúde e Tecnologia – 18.06 – 17H](https://www.youtube.com/watch?v=QwYD1MfnXms&feature=youtu.be)
   
 **Participantes:**
-_ Rodolfo Aragão de Lira (S.O.S. Coronavírus) +
-_ Bruna Silveira (Agentes Populares de Saúde - Uneafro / Médica de Família e Homeopata) +
-_ Ricardo Ruiz (Careables / Lab Coco)
+* Rodolfo Aragão de Lira (S.O.S. Coronavírus) +
+* Bruna Silveira (Agentes Populares de Saúde - Uneafro / Médica de Família e Homeopata) +
+* Ricardo Ruiz (Careables / Lab Coco)
     
 **Mediadora:** 
 Marcela Martins (Jornalista)
@@ -58,9 +58,9 @@ Marcela Martins (Jornalista)
 [Mudança Climática e Pandemia – 19.06 – 17H](https://www.youtube.com/watch?v=I6RHzYbDB3o&feature=youtu.be)
   
 **Participantes:**
-_Raquel Rosenberg (Plataforma Liberte o Futuro) +
-_Bernardo Esteves (Jornalista de Ciência da Piauí) +
-_Pablo Borges de Amorim (Doutor em Ciências Naturais / Ciência no Bar)
+* Raquel Rosenberg (Plataforma Liberte o Futuro) +
+* Bernardo Esteves (Jornalista de Ciência da Piauí) +
+* Pablo Borges de Amorim (Doutor em Ciências Naturais / Ciência no Bar)
   
 **Mediadora:** 
 Marcela Martins (Jornalista)
