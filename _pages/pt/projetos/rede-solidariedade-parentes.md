@@ -11,10 +11,5 @@ people:
     url: 
 ---
 
-**PERFIL DE COLABORADORES:**
-  
-Indígenas; pessoas que tenham articulação indígenas; pessoas que conhecem estratégias de arrecadação de fundos e transparência para comunidades; economistas; especialistas em captação de recursos; especialistas em plataformas de financiamento colaborativo; gestoras/es; designer; promadadoras/es web.É importante que as/os colaboradores tenham alguma experiência com diálogo ou trabalho em comunidades indígenas.   
-  
-**RESUMO:**
-  
-Junto às mulheres da Assembleia Terena, a proposta pretende criar uma maneira de levantar recursos para produção e distribuição de materiais de proteção e higiene pessoais nas aldeias. O projeto reúne mulheres Terenas que atuam como produtoras na aldeia Limão Verde, Aquidauana - MS.  Atualmente elas não têm recursos financeiros para continuar a produção iniciada em abril. Algumas das mulheres apoiadas pela iniciativa são idosas e se arriscam indo à cidade vender seus produtos na feira durante a pandemia.
+A proposta é uma rede de ação solidária entre mulheres do povo Terena que pretendem criar uma maneira de levantar recursos
+para produção e distribuição de materiais de proteção e higiene pessoais nas aldeias. O projeto reúne mulheres Terena na aldeia Limão Verde (Aquidauana - MS), Aldeinha (Anastácio - MS) e Ipegue ( Aquidauana - MS) nessa ação que culmina numa vakinha e contará com a prestação de contas ao final para lideranças e consequentemente para as comunidades, além da distribuição de produtos de higiene confeccionado pelas próprias mulheres, priorizando famílias com menores condições de conseguir tais produtos. As comunidades juntas somam pelo menos três mil pessoas.

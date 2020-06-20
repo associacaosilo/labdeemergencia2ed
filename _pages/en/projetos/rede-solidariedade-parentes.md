@@ -11,10 +11,5 @@ people:
     url: 
 ---
 
-**PROFILE OF COLLABORATORS:** 
-  
-Indigenous communities; people who have ties with these communities; people who are familiar with fundraising strategies and transparency with communities; economists; fundraising experts; crowdfunding platform specialists; managers; designers; web developers. It is important that the collaborators have some previous experience working in or engaging with indigenous communities.
-  
-**ABSTRACT:**
-  
-Alongside the women of the Terena People’s Assembly, the proposal intends to create a way to raise funds for the production and distribution of protection and hygiene materials in the villages. The project brings together Terena women who work as farmers in the Limão Verde village in Aquidauana, MS.They currently don’t have financial resources to continue the production they began in April. Some of the women supported by this initiative are elderly and have been putting themselves at risk by selling their produce in outdoor markets during the pandemic.
+The proposal is a solidarity action network among women from the Terena people who intend to create a way to raise funds for the production and distribution of personal protection and hygiene materials in the villages. The project brings together Terena women in the village Limão Verde (Aquidauana - MS), Aldeinha (Anastácio - MS) and Ipegue (Aquidauana - MS) in this action that culminates in a small cow and will count on the accountability at the end for leadership and consequently for the communities , in addition to the distribution of hygiene products made by the women themselves, prioritizing families with less conditions to obtain such products. The communities together number at least
+three thousand people.
