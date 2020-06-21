@@ -12,7 +12,5 @@ De caráter multidisciplinar o laboratório é caracterizado pelo encontro de cu
   
 Realizado por meio de duas chamadas abertas, uma para projetos e outra para colaboradores, o Lab busca projetos sobretudo vindo das periferias rurais e urbanas. A função do Lab é conectar as ideias com um número grande de colaboradores, fazer a divulgação dessas iniciativas, ajudar na estruturação delas para que possam ser replicáveis e ainda oferecer mentorias e ajuda de custo para as propostas. O Laboratório de Emergência é um evento realizado totalmente online, por meio de grupos de trabalhos autogeridos, usando plataformas de chat, vídeo chamada, áudio e streaming.
   
-A 2ed do lab de emergência aconteceu durante cinco dias de trabalho remoto, em grupos multidisciplinares, formados por artistas, cientistas, profissionais de tecnologia, comunicadores, educadores, lideranças comunitárias e quem mais quis colaborar.
-  
 O Laboratório de Emergência é uma proposta colaborativa que trabalha o desenvolvimento de projetos sob a lógica participativa usando de licenças livres que permitam replicação e adaptação dos projetos a outros contextos.
 Conheça a primeira edição do Lab de Emergência e outros laboratórios que realizamos aqui.
