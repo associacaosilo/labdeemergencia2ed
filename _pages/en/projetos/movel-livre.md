@@ -1,20 +1,41 @@
 ---
 layout: list
-title: 'Free Furniture: a platform to disseminate furniture and objects for domestic and common spaces'
+title: 'Free Furniture'
 proponent:
   - name: OCO [Juliana Sicuro e Vitor Garcez] + Linha [Paula Daemon] - Rio de Janeiro 
     url: 
-cover:
+cover:  /media/images/covers/movel.png
 permalink: /en/movel-livre/
 people:
   - name: 
     url: 
 ---
 
-**PROFILE OF COLLABORATORS:**
-  
-Web developers; product designers; social media experts; administrative managers; community leaders from rural and urban areas; students; makers; carpenters.
+**Free Furniture: a platform to disseminate furniture and objects for domestic and common spaces**
 
-**ABSTRACT:**
+[movel-livre.cc](https://www.movel-livre.cc/)
   
-After observing the impact of the new coronavirus pandemic on domestic spaces and the impossibility of its dwellers to adapt to this reality, a group of architects is proposing the development of a web platform to host a catalog of furniture and objects with a free license. Understanding furniture as a support structure for everyday life, from domestic to common spaces, from rural to urban areas, the project proposes the transformation of the reality of these spaces on a small scale. The platform will compose a catalog of furniture and objects with instruction manuals and technical drawings for their construction. Through the platform, people in rural or urban areas can create the furniture with their own hands or in small local workshops.
+‘MÓVEL LIVRE’ is a collaborative platform for the dissemination of a catalog furniture with a free license. The project arises in the context of the new Coronavirus pandemic about how we - as architects and designers - could contribute to improving the home spaces of people who are dealing with some of the challenges of isolation: working, staying and living at home. We think of furniture as a domestic infrastructure - a layer of architecture - that can assist in daily activities and qualify people's lives in their spaces. The Silo Emergency Lab brought the opportunity to expand the network of project collaborators, from different areas, who were able to contribute to formulate some of the questions that we 
+will need to answer with the development of the project: How can we democratize and share knowledge that broadens the perception of spaces? How can people use their power to build and transform their close reality?
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zm3WHE2QP6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## DOWNLOADS
+
+
+[Representação gráfica](https://drive.google.com/file/d/11V29oNHPcID2ekdRRwv zMDdzXSovSD2p/view?usp=sharing)
+  
+  ---
+    
+[Mobiliário](https://drive.google.com/file/d/142D9SrsAgcQ2VTLEF07 BBVLem9OvDoeG/view?usp=sharing)
+  
+  ---
+    
+[Comunicação e redes sociais](https://drive.google.com/file/d/1miAFdD2Gds4xmTO9_uf _uKWSuuFbhg4_/view?usp=sharing)
+  
+  ---
+    
+[Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O _w6M5BKCKMRQA/view?usp=sharing) 

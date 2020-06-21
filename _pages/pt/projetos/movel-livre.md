@@ -1,20 +1,42 @@
 ---
 layout: list
-title: 'Móvel Livre: plataforma de difusão de móveis e objetos para espaços domésticos e comuns'
+title: 'Móvel Livre'
 proponent:
   - name: OCO [Juliana Sicuro e Vitor Garcez] + Linha [Paula Daemon] - Rio de Janeiro 
     url: 
-cover:
+cover: /media/images/covers/movel.png
 permalink: /pt/movel-livre/
 people:
   - name: 
     url: 
 ---
 
-**PERFIL DE COLABORADORES:**
-  
-Desenvolvedoras/res web; designer de produto; especialista em mídias sociais; administradora/gestora;lideranças comunitárias de comunidades rurais e urbanas; estudantes; makers; marceneiras/os.  
+**Móvel Livre: plataforma de difusão de móveis e objetos para espaços domésticos e comuns**
 
-**RESUMO:**
+[movel-livre.cc](https://www.movel-livre.cc/)
+
+O MÓVEL LIVRE é uma plataforma colaborativa para difusão de uma catálogo de móveis com licença livre. O projeto surge no contexto da pandemia do novo Coronavírus sobre como poderíamos – como arquitetxs e projetistas – contribuir com a melhoria dos espaços domésticos de pessoas que estão lidando com alguns dos desafios do isolamento: trabalhar, permanecer e conviver em casa. Pensamos o mobiliário como uma infraestrutura doméstica - uma camada da arquitetura - que pode auxiliar nas atividades cotidianas e qualificar a vida das pessoas em seus espaços. O Lab de Emergência da Silo trouxe a oportunidade de
+ampliação da rede de colaboradores do projeto, de diversas áreas, e que puderam contribuir para formular algumas das  perguntas que precisaremos responder com o desenvolvimento do projeto: Como podemos democratizar e compartilhar saberes que 
+espaços? Como as pessoas podem lançar mão de sua potência de construir e transformar sua realidade próxima?
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zm3WHE2QP6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## Documentos para replicar 
+
+
+[Representação gráfica](https://drive.google.com/file/d/11V29oNHPcID2ekdRRwv zMDdzXSovSD2p/view?usp=sharing)
   
-Observando o impacto da pandemia do novo Coronavirus nos espaços domésticos e a impossibilidade de adaptação a essa realidade por seus habitantes, um grupo de arquitetxs propõe o desenvolvimento de uma ‘plataforma web’ para dar acesso a um catálogo de projetos de móveis e objetos com licença livre. Entendendo o mobiliário como estrutura de suporte à vida cotidiana dos espaços domésticos aos comuns, dos rurais aos urbanos, o projeto propõe transformar a realidade destes espaços na pequena escala. A plataforma comporá um catálogo dos móveis e objetos com manuais de instruções e desenhos técnicos para sua construção. Por meio da plataforma, pessoas em áreas rurais ou urbanas podem executar os móveis com suas mãos ou em pequenas manufaturas locais.
+  ---
+    
+[Mobiliário](https://drive.google.com/file/d/142D9SrsAgcQ2VTLEF07 BBVLem9OvDoeG/view?usp=sharing)
+  
+  ---
+    
+[Comunicação e redes sociais](https://drive.google.com/file/d/1miAFdD2Gds4xmTO9_uf _uKWSuuFbhg4_/view?usp=sharing)
+  
+  ---
+    
+[Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O _w6M5BKCKMRQA/view?usp=sharing) 

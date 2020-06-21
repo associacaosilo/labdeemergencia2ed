@@ -1,20 +1,41 @@
 ---
 layout: list
-title: 'Muebles Libres: plataforma de difusión para muebles y objetos para espacios domésticos y comunes.s'
+title: 'Muebles Libres'
 proponent:
   - name: OCO [Juliana Sicuro e Vitor Garcez] + Linha [Paula Daemon] - Rio de Janeiro 
     url: 
-cover:
+cover: /media/images/covers/movel.png
 permalink: /es/movel-livre/
 people:
   - name: 
     url: 
 ---
 
-**PERFIL DE LAS/LOS COLABORADORES:**
-  
-Desarrolladores web; diseñadores de producto; Especialista en Social Media; administradores / gerente, líderes comunitarios de comunidades rurales y urbanas; estudiantes; makers; carpinteras/os. 
 
-**RESUMO:**
+**Muebles Libres: plataforma de difusión para muebles y objetos para espacios domésticos y comunes.s**
+
+[movel-livre.cc](https://www.movel-livre.cc/)
   
-Observando el impacto de la pandemia del nuevo Coronavirus en los espacios domésticos y la imposibilidad de sus habitantes de adaptarse a esta realidad, un grupo de arquitectos propone el desarrollo de una 'plataforma web' para dar acceso a un catálogo de proyectos de muebles y objetos con licencia libre. Entendiendo los muebles como una estructura de soporte para la vida cotidiana, desde los espacios domésticos a los comunes, de lo rural a lo urbano, el proyecto propone transformar la realidad de estos espacios a pequeña escala. La plataforma compondrá un catálogo de muebles y objetos con manuales de instrucciones y dibujos técnicos para su construcción. A través de la plataforma, las personas en áreas rurales o urbanas pueden ejecutar los muebles con sus manos o en pequeños fabricantes locales.
+‘MÓVEL LIVRE’ es una plataforma colaborativa para la difusión de un catálogo de muebles con licencia gratuita. El proyecto se presenta en el contexto de la nueva pandemia de Coronavirus sobre cómo nosotros, como arquitecturas y proyectos, podríamos contribuir a mejorar los espacios hogareños de las personas que enfrentan algunos de los desafíos del aislamiento: trabajar, mantener y vivir juntos en casa. Pensamos en los muebles como una infraestructura doméstica, una otra capa de arquitectura, que puede ayudar en las actividades diarias y calificar la vida de las personas en sus espacios. El Laboratorio de Emergencia de Silo ofreció la oportunidad de expandir la red de colaboradores del proyecto, desde diferentes áreas, que pudieron contribuir a formar algunas de las preguntas que necesitará respuestas con el desarrollo del proyecto: ¿Cómo podemos democratizar y compartir saberes que amplían la percepción de espacios? ¿Cómo pueden las personas hacer uso de su poder para construir y transformar su realidad cercana?
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zm3WHE2QP6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## Documentos para replicar 
+
+
+[Representação gráfica](https://drive.google.com/file/d/11V29oNHPcID2ekdRRwv zMDdzXSovSD2p/view?usp=sharing)
+  
+  ---
+    
+[Mobiliário](https://drive.google.com/file/d/142D9SrsAgcQ2VTLEF07 BBVLem9OvDoeG/view?usp=sharing)
+  
+  ---
+    
+[Comunicação e redes sociais](https://drive.google.com/file/d/1miAFdD2Gds4xmTO9_uf _uKWSuuFbhg4_/view?usp=sharing)
+  
+  ---
+    
+[Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O _w6M5BKCKMRQA/view?usp=sharing) 
