@@ -7,6 +7,42 @@ proponent:
 cover: /media/images/covers/movel.png
 permalink: /pt/movel-livre/
 people:
+  - name: Rodrigo D ́Avila
+    url: 
+  - name: Regina Gomes 
+    url: 
+  - name: Fernanda Sampaio
+    url: 
+  - name: Mariana Chiarello
+    url: 
+  - name: Rodrigo Lugão
+    url: 
+  - name: Leonardo
+    url: 
+  - name: Clara Ebert
+    url: 
+  - name: Pérola Barbosa
+    url: 
+  - name: Daniel Félix
+    url: 
+  - name: Carlos Zebulun
+    url: 
+  - name: Barbara Cutlak
+    url: 
+  - name: Dimitri Buriti
+    url: 
+  - name: Liliane Ramos
+    url: 
+  - name: Daniel Pinheiro
+    url: 
+  - name: João Assad
+    url: 
+  - name: Lina Lopes (Colaboração técnica)
+    url: 
+  - name: Natasha Gabriel (Mentoria)
+    url:    
+  - name: Fernanda Tosta (Mentoria)
+    url: 
   - name: 
     url: 
 ---
