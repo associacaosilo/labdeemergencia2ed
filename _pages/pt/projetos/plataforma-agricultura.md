@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais'
+title: 'Mangut'
 proponent:
   - name: Marcos Vinícius  - Brasília, DF
     url: ''
@@ -18,20 +18,37 @@ proponent:
     url: ''
   - name: Marcos Vinicius Miranda Cruz
     url: ''
-cover: ''
+  - name: Marina Martins
+    url: ''
+  - name: Esther Martins
+    url: ''
+  - name: Pedro Martins
+    url: ''
+  - name: Ariel Molina
+    url: ''
+  - name: Ewald Santos (colaborador no desenvolvimento)
+    url: ''
+  - name: Lorena Portela (mentoria Engenheira Ambiental)
+    url: ''
+  - name: Vitor de Abreu
+    url: ''
+  - name: Heloísa Boll (Mediação)
+    url: ''
+cover: /media/images/covers/mangut.png
 permalink: /pt/plataforma-agricultura/
 people:
   - name: 
     url: 
 ---
 
-**PERFIL DE COLABORADORES:**
-  
-Desenvolvedoras/es web e app; gestoras/es de cooperativas; integrantes de CSA; profissionais de gestao redes socias; profissionais de marketing; designer web; ilustradoras/es. 
+**Plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais**
 
-**RESUMO:**
+[mangut.org](https://mangut.org)
   
-Criação de um App que integra consumidoras/es e produtoras/es voltado ao comércio da produção agroecológica de populações rurais.
-Um app inclusivo para possibilitar a participação da juventude no ambiente tecnológico, a divulgação de produtos de mulheres que residem em ambiente familiar rural e outros espaço de divulgação e comercialização sem a necessidade de atravessadores, possibilitando a maximização da renda. As populações rurais do Distrito Federal, majoritariamente negra, ou produtores agroecológicos, majoritariamente mulheres, circundam o meio urbano e tem dificuldade de escoar produtos em canais de comercialização que não sejam feiras.
-
+Mangút é um site que tem como objetivo facilitar o escoamento de produção de agricultores familiares, orgânicos, agroecológicos, agroflorestais por meio de feiras, barracas de vendas, CSA e Cestas, em tempo real. O site ele tem como função interagir consumidores e produtores, assim mostrando a sua localização e facilitando para o consumidor encontra produtos próximo a sua localidade.
+  
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Liyn76_1CfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
 ---

@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Plataforma de comunicación entre actores en la producción y consumo de artículos orgánicos y agroforestales.'
+title: 'Mangut'
 proponent:
   - name: Marcos Vinícius  - Brasília, DF
     url: ''
@@ -18,20 +18,36 @@ proponent:
     url: ''
   - name: Marcos Vinicius Miranda Cruz
     url: ''
-cover: ''
+  - name: Marina Martins
+    url: ''
+  - name: Esther Martins
+    url: ''
+  - name: Pedro Martins
+    url: ''
+  - name: Ariel Molina
+    url: ''
+  - name: Ewald Santos (colaborador no desenvolvimento)
+    url: ''
+  - name: Lorena Portela (mentoria Engenheira Ambiental)
+    url: ''
+  - name: Vitor de Abreu
+    url: ''
+  - name: Heloísa Boll (Mediação)
+    url: ''
+cover: /media/images/covers/mangut.png
 permalink: /es/plataforma-agricultura/
 people:
   - name: 
     url: 
 ---
+**Plataforma de comunicación entre actores en la producción y consumo de artículos orgánicos y agroforestales.**
 
-**PERFIL DE LAS/LOS COLABORADORES:**
-Desarrolladores web y de aplicaciones; miembras/as de cooperativas de alimentos; miembras/os de CSA; profesionales de gestión de redes sociales; profesionales de marketing; diseñadores web; ilustradores; agricultores
-
-**RESUMEN:**
+[mangut.org](https://mangut.org)
   
-Creación de una aplicación que integre a consumidores y productores destinados al comercio de producción agroecológica de comunidades rurales.
-Una aplicación inclusiva para permitir la participación de los jóvenes en el entorno tecnológico, la difusión de productos de mujeres que viven en un entorno familiar rural, otros espacios de difusión y comercialización sin la necesidad de intermediarios, lo que permite la maximización de los ingresos. Las poblaciones rurales del Distrito Federal, en su mayoría afrodescendientes, o productores agroecológicos, en su mayoría mujeres, rodean el entorno urbano y tienen dificultades para vender productos a través de canales de comercio justo.
-
+Mangút es un sitio web que tiene como objetivo facilitar el flujo de producción de los agricultores familiares, orgánicos, agroecológicos, agroforestales a través de ferias, puestos de venta, CSA y cestas, en tiempo real. El sitio web tiene la función de interactuar con consumidores y productores, mostrando así su ubicación y facilitando a los consumidores encontrar productos cerca de su ubicación.
+  
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Liyn76_1CfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---

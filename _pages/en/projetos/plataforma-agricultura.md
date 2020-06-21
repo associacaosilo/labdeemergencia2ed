@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Communications platform for the agents of production and consumption of organic and agroforestry products'
+title: 'Mangut'
 proponent:
   - name: Marcos Vinícius  - Brasília, DF
     url: ''
@@ -18,20 +18,37 @@ proponent:
     url: ''
   - name: Marcos Vinicius Miranda Cruz
     url: ''
-cover: ''
+  - name: Marina Martins
+    url: ''
+  - name: Esther Martins
+    url: ''
+  - name: Pedro Martins
+    url: ''
+  - name: Ariel Molina
+    url: ''
+  - name: Ewald Santos (colaborador no desenvolvimento)
+    url: ''
+  - name: Lorena Portela (mentoria Engenheira Ambiental)
+    url: ''
+  - name: Vitor de Abreu
+    url: ''
+  - name: Heloísa Boll (Mediação)
+    url: ''
+cover: /media/images/covers/mangut.png
 permalink: /en/plataforma-agricultura/
 people:
   - name: 
     url: 
 ---
 
-**PROFILE OF COLLABORATORS:**
-  
-web and app developers; cooperative managers; participants of community-supported agriculture; social media management professionals; marketing professionals; web designers; illustrators.
+**Communications platform for the agents of production and consumption of organic and agroforestry products**
 
-**ABSTRACT:**
+[mangut.org](https://mangut.org)
   
-Creation of an app that integrates consumers and producers in the trade of the agroecological production of rural populations.
-An inclusive app to enable the participation of youth in the technological environment and the promotion of products of women living in rural family environments, as well as other spaces for promotion and marketing without the need for intermediaries, enabling the maximization of income. The rural populations of Brazil's Federal District, mostly black ones, or agroecological producers, mainly women, surround the urban environment and have difficulty selling products through channels other than outdoor markets.
+Mangút is a website that aims to facilitate the flow of production from family farmers, organic, agroecological, agroforestry through fairs, sales stalls, CSA and Baskets, in real time. The website has the function of interacting consumers and producers, thus showing its location and making it easier for consumers to find products near their location.
+  
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Liyn76_1CfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
