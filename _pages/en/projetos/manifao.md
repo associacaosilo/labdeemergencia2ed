@@ -13,11 +13,11 @@ people:
     url:  http://www.yannickfalisse.com.br/
   - name: Sebastián Henao
     url:   
- - name: Thiago Hersan
+  - name: Thiago Hersan
     url: https://thiagohersan.com/
- - name: Fernanda Mello
+  - name: Fernanda Mello
     url:
- - name: Anderson Oliveira
+  - name: Anderson Oliveira
     url:
 ---
 

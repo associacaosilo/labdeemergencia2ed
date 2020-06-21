@@ -15,12 +15,13 @@ people:
     url:  http://www.yannickfalisse.com.br/
   - name: Sebastián Henao
     url:   
- - name: Thiago Hersan
+  - name: Thiago Hersan
     url: https://thiagohersan.com/
- - name: Fernanda Mello
+  - name: Fernanda Mello
     url:
- - name: Anderson Oliveira
+  - name: Anderson Oliveira
     url:
+swipebox: manifao
 ---
 
 Plataforma online interativa voltada para protestos em a defesa de direitos humanos, onde todos podem se manifestar num mesmo dia em um só lugar, em função de uma mesma causa. Projeto inspirado nas manifestações de protestos que ocupam as ruas, porém no Manifão a ocupação é do Ciberespaço. Durante o laboratório desenvolvemos a plataforma e ativamos uma ação de
