@@ -17,6 +17,9 @@
           <img src="{{ site.baseurl }}/{{ page.cover }}">
         {% endif %}
         {{ content }}
+        {% if page.swipebox %}
+          {% include swipebox.html prefix=page.swipebox project=page.category %}
+        {% endif %}
       </section>
 
       {% assign slug = page.title | slugify %}
