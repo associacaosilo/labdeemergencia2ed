@@ -6,7 +6,7 @@ proponent:
     url: http://www.christigra.com
   - name: Yannick Falisse
     url: http://www.yannickfalisse.com.br/
-cover: media/images/covers/manifao.png
+cover: media/images/covers/manif.png
 permalink: /pt/manifao/
 people:
   - name: Chris Tigra

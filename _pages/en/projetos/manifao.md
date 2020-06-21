@@ -2,9 +2,11 @@
 layout: list
 title: MANIFÃO 
 proponent:
-  - name: Chris Tigra e Yannick Falisse -  Belo Horizonte, MG
-    url: 
-cover: /media/images/covers/manifao.png
+  - name: Chris Tigra -  Belo Horizonte, MG
+    url: http://www.christigra.com
+  - name: Yannick Falisse
+    url: http://www.yannickfalisse.com.br/
+cover: /media/images/covers/manif.png
 permalink: /en/manifao/
 people:
   - name: Chris Tigra

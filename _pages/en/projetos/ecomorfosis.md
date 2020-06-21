@@ -3,8 +3,8 @@ layout: list
 title: 'Ecomorfosis'
 proponent:
   - name: Camila Picco - Rosário, Argentina. 
-    url: 
-cover: /media/images/covers/ecomorfosis.jpeg
+    url:  https://instagram.com/camipicco
+cover: /media/images/covers/eco.png
 permalink: /en/ecomorfosis/
 people:
   - name: Maria Luiza Cafalchio de Oliveira
