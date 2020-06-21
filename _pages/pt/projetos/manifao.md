@@ -24,6 +24,8 @@ people:
 swipebox: manifao
 ---
 
+[manifao.org](https://manifao.org)
+  
 Plataforma online interativa voltada para protestos em a defesa de direitos humanos, onde todos podem se manifestar num mesmo dia em um só lugar, em função de uma mesma causa. Projeto inspirado nas manifestações de protestos que ocupam as ruas, porém no Manifão a ocupação é do Ciberespaço. Durante o laboratório desenvolvemos a plataforma e ativamos uma ação de
 manifestação, cujo tema escolhido foi “Manifão da Diversidade”, voltado para os direitos LGBTQIAPN+, em função do mês do orgulho LGBTQIAPN+. 
   
