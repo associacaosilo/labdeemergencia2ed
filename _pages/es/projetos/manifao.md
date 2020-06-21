@@ -19,6 +19,7 @@ people:
     url:
   - name: Anderson Oliveira
     url:
+swipebox: manifao
 ---
 
 [manifao.org](https://manifao.org)

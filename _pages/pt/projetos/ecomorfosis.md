@@ -23,6 +23,7 @@ people:
     url:  
   - name: Ernesto Adrian Morales Ramírez
     url:  
+swipebox: ecomorfosis
 ---
 
 [ecomorfosis.com](http://ecomorfosis.com)

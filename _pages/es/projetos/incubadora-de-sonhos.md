@@ -19,6 +19,7 @@ people:
     url: 
   - name: Tono Guimarães
     url: 
+swipebox: incubadora
 ---
 
 El objetivo era llevar a cabo una prueba piloto de la Incubadora Virtual de Sueños en el Centro de Escuela Secundaria Paulo Freire, que es una escuela pública ubicada en Brasilia, que atiende a estudiantes de diferentes vecindarios y condiciones económicas y sociales. Esta iniciativa consistió en apoyar a los estudiantes y desarrollar la etapa inicial de la Incubadora Virtual de Sueños, motivándolos a reflexionar sobre el escenario de enfrentar a los desafíos causados ​​por Covid-19 y crear un marco de sueños para el futuro, para la generación de proyectos colaborativos en sus comunidades.
@@ -49,6 +50,8 @@ Los pasos siguientes se refieren a la implementación del proyecto piloto comple
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pw8OqTsz9dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+  
+## ARCHIVOS PARA DESCARGAR:
   
 [FORMULARIO PARA ESTUDIANTES](https://docs.google.com/forms/d/e/1FAIpQLSfzaiIwdMFJbBMec7k3EQcpOmamO_yXixxEzolrUEQ4pPImAQ/viewform)
 

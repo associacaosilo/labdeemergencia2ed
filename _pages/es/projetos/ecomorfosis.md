@@ -25,6 +25,7 @@ people:
     url:  
   - name: 
     url: 
+swipebox: ecomorfosis
 ---
 
 [ecomorfosis.com](http://ecomorfosis.com)

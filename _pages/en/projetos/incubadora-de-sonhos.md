@@ -20,7 +20,8 @@ people:
   - name: Tono Guimarães
     url: 
   - name: 
-    url: 
+    url:
+swipebox: incubadora
 ---
 
 The objective was to conduct a pilot project of the Online Dream Incubator at the Paulo Freire High School Center, which is a state school located in Brasília, serving students from different neighbourhoods and economic and social conditions. This initiative consisted of supporting students and developing the initial stage of the Online Dream Incubator, motivating them to reflect on the scenario of challenges caused by Covid-19 and creating a “board of dreams for the future” with the vision of generating collaborative projects in communities.
@@ -51,6 +52,10 @@ The next steps refer to the implementation of the complete pilot project of the 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pw8OqTsz9dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+## DOWNLOADS:
+  
 
 [STUDENTS FORM](https://docs.google.com/forms/d/e/1FAIpQLSfzaiIwdMFJbBMec7k3EQcpOmamO_yXixxEzolrUEQ4pPImAQ/viewform)
 
