@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Ecomorfosis: Playful and educational activities to teach sustainability and environment	concepts'
+title: 'Ecomorfosis'
 proponent:
   - name: Camila Picco - Rosário, Argentina. 
     url: 

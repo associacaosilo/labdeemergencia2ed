@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 'Ecomorfosis: Atividades lúdicas e educativas para aprender conceitos de sustentabilidade e meio ambiente'
+title: 'Ecomorfosis'
 proponent:
   - name: Camila Picco - Rosário, Argentina. 
     url: https://instagram.com/camipicco
