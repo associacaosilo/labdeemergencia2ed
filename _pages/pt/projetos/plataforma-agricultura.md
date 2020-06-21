@@ -16,6 +16,9 @@ proponent:
     url: ''
   - name: Francisco Iranildo Rodrigues
     url: ''
+cover: /media/images/covers/mangut.png
+permalink: /pt/plataforma-agricultura/
+people:
   - name: Marcos Vinicius Miranda Cruz
     url: ''
   - name: Marina Martins
@@ -34,11 +37,6 @@ proponent:
     url: ''
   - name: Heloísa Boll (Mediação)
     url: ''
-cover: /media/images/covers/mangut.png
-permalink: /pt/plataforma-agricultura/
-people:
-  - name: 
-    url: 
 ---
 
 **Plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais**
