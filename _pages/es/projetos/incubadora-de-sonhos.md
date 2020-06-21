@@ -11,13 +11,13 @@ people:
     url: 
   - name: Leonardo Magalhães
     url: 
-  - name:Nicte-Há García
+  - name: Nicte-Há García
     url: 
-  - name:Salete Guerra
+  - name: Salete Guerra
     url: 
-  - name:Shirlei Daudt
+  - name: Shirlei Daudt
     url: 
-  - name:Tono Guimarães
+  - name: Tono Guimarães
     url: 
 ---
 
