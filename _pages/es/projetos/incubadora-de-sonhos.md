@@ -55,11 +55,19 @@ Los pasos siguientes se refieren a la implementación del proyecto piloto comple
   
 [FORMULARIO PARA ESTUDIANTES](https://docs.google.com/forms/d/e/1FAIpQLSfzaiIwdMFJbBMec7k3EQcpOmamO_yXixxEzolrUEQ4pPImAQ/viewform)
 
+---
+  
 [Modelos de textos para Lista de Transmissão sobre metodologia de gestão colaborativa de projetos Dragon Dreaming]( https://docs.google.com/document/d/1psqAz3ASntLRk_6dGuCT_grQVH3bS5R7mhfCKGsw9ds/edit?usp=sharing)
-  
+
+---
+    
 [Áudios sobre as missões propostas no Grupo de Interação](https://drive.google.com/drive/folders/1bJICcrz0jybhztmMvjsqTtrjVTRKdkbE?usp=sharing) 
-  
+
+---
+    
 [Modelos de textos para Grupo de Interação: mensagens com 7 missões](https://docs.google.com/document/d/1FbeFY9TMI6irBemhd4Kn-jkXXB5nW3WxEts_yCe85d8/edit?usp=sharing) 
 
+---
+  
   
 **E-mail:** incubadoradesonhos.lab@gmail.com)

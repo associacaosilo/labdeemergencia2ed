@@ -59,11 +59,19 @@ The next steps refer to the implementation of the complete pilot project of the 
 
 [STUDENTS FORM](https://docs.google.com/forms/d/e/1FAIpQLSfzaiIwdMFJbBMec7k3EQcpOmamO_yXixxEzolrUEQ4pPImAQ/viewform)
 
+---
+  
 [Models of texts for Transmission List on collaborative project management methodology Dragon Dreaming]( https://docs.google.com/document/d/1psqAz3ASntLRk_6dGuCT_grQVH3bS5R7mhfCKGsw9ds/edit?usp=sharing)
-  
+
+---
+    
 [Audios about the proposed missions in the Interaction Group](https://drive.google.com/drive/folders/1bJICcrz0jybhztmMvjsqTtrjVTRKdkbE?usp=sharing) 
-  
+ 
+---
+   
 [Text templates for Interaction Group: messages with 7 missions](https://docs.google.com/document/d/1FbeFY9TMI6irBemhd4Kn-jkXXB5nW3WxEts_yCe85d8/edit?usp=sharing) 
 
+---
+  
   
 **E-mail:** incubadoradesonhos.lab@gmail.com)

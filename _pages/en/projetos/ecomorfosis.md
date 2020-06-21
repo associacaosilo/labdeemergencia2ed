@@ -45,6 +45,9 @@ During the laboratory a website was developed where we upload proposals for educ
 It will also leave the website open for families to download projects to carry them out and also to upload ideas, images and videos of activities, creating a collaborative community with a common goal of improving the environment.
 
 
+
 **Mail:** ecomorfosislab@gmail.com
+  
 [Instagram](https://instagram.com/ecomorfosislab)
+  
 [Facebook](https://facebook.com/ecomorfosislab)
