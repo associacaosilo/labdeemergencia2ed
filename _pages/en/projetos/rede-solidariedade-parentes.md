@@ -4,7 +4,7 @@ title: Solidarity networks between fellow Native Brazilians in the pandemic
 proponent:
   - name: Naine Terena de Jesus - Aldeia Limão Verde, Aquidauana , MS
     url: 
-cover:
+cover: /media/images/covers/parentes.png
 permalink: /en/rede-solidariedade-parentes/
 people:
   - name: Valdirene Eloy

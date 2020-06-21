@@ -4,7 +4,7 @@ title: Rede de solidariedade entre parentes na pandemia
 proponent:
   - name: Naine Terena de Jesus - Aldeia Limão Verde, Aquidauana , MS
     url: 
-cover:
+cover: /media/images/covers/parentes.png
 permalink: /pt/rede-solidariedade-parentes/
 people:
   - name: Valdirene Eloy
