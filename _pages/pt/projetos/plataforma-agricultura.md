@@ -41,7 +41,7 @@ people:
 
 **Plataforma de comunicação entre os atores da produção e consumo de itens orgânicos e agroflorestais**
 
-[mangut.org](https://mangut.org)
+[mangut.org](https://mangut.org){:target="_blank"}
   
 Mangút é um site que tem como objetivo facilitar o escoamento de produção de agricultores familiares, orgânicos, agroecológicos, agroflorestais por meio de feiras, barracas de vendas, CSA e Cestas, em tempo real. O site ele tem como função interagir consumidores e produtores, assim mostrando a sua localização e facilitando para o consumidor encontra produtos próximo a sua localidade.
   

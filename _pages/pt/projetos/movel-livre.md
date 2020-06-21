@@ -49,7 +49,7 @@ people:
 
 **Móvel Livre: plataforma de difusão de móveis e objetos para espaços domésticos e comuns**
 
-[movel-livre.cc](https://www.movel-livre.cc/)
+[movel-livre.cc](https://www.movel-livre.cc/){:target="_blank"}
 
 O MÓVEL LIVRE é uma plataforma colaborativa para difusão de uma catálogo de móveis com licença livre. O projeto surge no contexto da pandemia do novo Coronavírus sobre como poderíamos – como arquitetxs e projetistas – contribuir com a melhoria dos espaços domésticos de pessoas que estão lidando com alguns dos desafios do isolamento: trabalhar, permanecer e conviver em casa. Pensamos o mobiliário como uma infraestrutura doméstica - uma camada da arquitetura - que pode auxiliar nas atividades cotidianas e qualificar a vida das pessoas em seus espaços. O Lab de Emergência da Silo trouxe a oportunidade de
 ampliação da rede de colaboradores do projeto, de diversas áreas, e que puderam contribuir para formular algumas das  perguntas que precisaremos responder com o desenvolvimento do projeto: Como podemos democratizar e compartilhar saberes que 
@@ -63,16 +63,16 @@ espaços? Como as pessoas podem lançar mão de sua potência de construir e tra
 ## Documentos para replicar 
 
 
-[Representação gráfica](https://drive.google.com/file/d/11V29oNHPcID2ekdRRwv zMDdzXSovSD2p/view?usp=sharing)
+[Representação gráfica](https://drive.google.com/file/d/11V29oNHPcID2ekdRRwvzMDdzXSovSD2p/view){:target="_blank"}
   
   ---
     
-[Mobiliário](https://drive.google.com/file/d/142D9SrsAgcQ2VTLEF07 BBVLem9OvDoeG/view?usp=sharing)
+[Mobiliário](https://drive.google.com/file/d/142D9SrsAgcQ2VTLEF07BBVLem9OvDoeG/view){:target="_blank"}
   
   ---
     
-[Comunicação e redes sociais](https://drive.google.com/file/d/1miAFdD2Gds4xmTO9_uf _uKWSuuFbhg4_/view?usp=sharing)
+[Comunicação e redes sociais](https://drive.google.com/file/d/1miAFdD2Gds4xmTO9_uf_uKWSuuFbhg4_/view){:target="_blank"}
   
   ---
     
-[Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O _w6M5BKCKMRQA/view?usp=sharing) 
+[Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O_w6M5BKCKMRQA/view){:target="_blank"} 

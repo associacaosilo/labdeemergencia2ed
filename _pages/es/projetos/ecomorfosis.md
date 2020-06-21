@@ -28,7 +28,7 @@ people:
 swipebox: ecomorfosis
 ---
 
-[ecomorfosis.com](http://ecomorfosis.com)
+[ecomorfosis.com](http://ecomorfosis.com){:target="_blank"}
 
 **Actividades lúdicas y educativas para aprender conceptos de sostenibilidad y medio ambiente en la familia como modelo educativo alternativo para niños durante el aislamiento social promovido por el COVID19.**
 
@@ -47,6 +47,6 @@ También se va a dejar el sitio web abierto a que las familias descarguen los p
 
 **Mail:** ecomorfosislab@gmail.com
   
-[Instagram](https://instagram.com/ecomorfosislab)
+[Instagram](https://instagram.com/ecomorfosislab){:target="_blank"}
   
-[Facebook](https://facebook.com/ecomorfosislab)
+[Facebook](https://facebook.com/ecomorfosislab){:target="_blank"}

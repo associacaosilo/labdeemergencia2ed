@@ -41,7 +41,7 @@ people:
 
 **Communications platform for the agents of production and consumption of organic and agroforestry products**
 
-[mangut.org](https://mangut.org)
+[mangut.org](https://mangut.org){:target="_blank"}
   
 Mangút is a website that aims to facilitate the flow of production from family farmers, organic, agroecological, agroforestry through fairs, sales stalls, CSA and Baskets, in real time. The website has the function of interacting consumers and producers, thus showing its location and making it easier for consumers to find products near their location.
   
