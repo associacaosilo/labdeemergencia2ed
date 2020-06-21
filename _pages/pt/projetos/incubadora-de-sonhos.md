@@ -62,4 +62,4 @@ Os próximos passos referem-se à implementação do projeto piloto completo da 
 [Modelos de textos para Grupo de Interação: mensagens com 7 missões](https://docs.google.com/document/d/1FbeFY9TMI6irBemhd4Kn-jkXXB5nW3WxEts_yCe85d8/edit?usp=sharing) 
 
   
-[E-mail:](incubadoradesonhos.lab@gmail.com) 
+**E-mail:** incubadoradesonhos.lab@gmail.com) 
