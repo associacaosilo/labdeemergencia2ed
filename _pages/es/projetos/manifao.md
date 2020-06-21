@@ -19,7 +19,6 @@ people:
     url:
  - name: Anderson Oliveira
     url:
-swipebox: MANIFAO
 ---
 
 Plataforma interactiva en línea para protestas en defensa de los derechos humanos, donde todos se pueden manifestar en un mismo día, en un mismo lugar, en función de una misma causa. Proyecto inspirado em las manifestaciones de protestas que ocupan las calles, sin embargo, en el Manifão se ocupa el ciberespacio. Durante el laboratório desarrollamos la plataforma y activamos uma acción de manifestación, cuyo tema escogido fue “Manifão de la Diversidad”, dirigido a los derechos LGBTQIAPN+, por ocasión del mes del orgullo y la diversidad sexual y de género.

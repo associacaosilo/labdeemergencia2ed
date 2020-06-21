@@ -2,9 +2,11 @@
 layout: list
 title: MANIFÃO 
 proponent:
-  - name: Chris Tigra e Yannick Falisse -  Belo Horizonte, MG
-    url: 
-cover: /media/images/covers/manifao.png
+  - name: Chris Tigra -  Belo Horizonte, MG
+    url: http://www.christigra.com
+  - name: Yannick Falisse
+    url: http://www.yannickfalisse.com.br/
+cover: media/images/covers/manifao.png
 permalink: /pt/manifao/
 people:
   - name: Chris Tigra
@@ -19,7 +21,6 @@ people:
     url:
  - name: Anderson Oliveira
     url:
-swipebox: MANIFAO
 ---
 
 Plataforma online interativa voltada para protestos em a defesa de direitos humanos, onde todos podem se manifestar num mesmo dia em um só lugar, em função de uma mesma causa. Projeto inspirado nas manifestações de protestos que ocupam as ruas, porém no Manifão a ocupação é do Ciberespaço. Durante o laboratório desenvolvemos a plataforma e ativamos uma ação de
