@@ -19,6 +19,8 @@ people:
     url: 
   - name: Vera Lúcia Santos de Araújo
     url: 
+  - name: Clareana Aroxa (Mediação)
+    url: 
 ---
 
 Creation and distribution of racial and cultural identity kits for black children during social isolation through a network of black entrepreneurs and artisans.

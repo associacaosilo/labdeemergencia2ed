@@ -18,7 +18,9 @@ people:
   - name: Andressa Freire Mendonça
     url: 
   - name: Vera Lúcia Santos de Araújo
-    url: 
+    url:
+  - name: Clareana Aroxa (Mediação)
+    url:  
 ---
 
 Creación y distribución de kits de identidad racial y cultural para niños afrodescendientes durante el aislamiento social a través de una red de mujeres empresarias y artesanas afrodescendientes.

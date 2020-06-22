@@ -30,6 +30,9 @@ El proyecto "Inclusive" tiene como objetivo desarrollar un sistema de red autón
   
 También se creó un folleto instructivo sobre el concepto y la implementación del sistema. Se desarrolló uma solución de bajo costo para implementar un servidor de medios local, donde el contenido se puede insertar y poner a disposición para la comunidad local a través de una red inalámbrica, accesible por telefono móvil o la computadora. La red es administrada por la propia comunidad, tiene toda su estructura basada en software libre y funciona independientemente del acceso a internet.
 
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3ezYRKeA84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 [DESCARGA EL MANUAL](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}

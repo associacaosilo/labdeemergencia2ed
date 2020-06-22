@@ -3,20 +3,40 @@ layout: list
 title: Telas de Esperanza
 proponent:
   - name: Joyce Cursino | Negritar - Belém, PA
-    url: 
-cover: 
+    url: mailto:negritarcomunicacao@gmail.com
+cover:  /media/images/covers/telas.png
 permalink: /es/projeto-negritar/
 people:
+  - name: Juliana Vieira
+    url: 
+  - name: Carolina Gigliotti
+    url: 
+  - name: Luísa Ritter (Mediação)
+    url: 
+  - name: Zeilane Fernandes
+    url: 
+  - name: Dafne Miranda
+    url: 
+  - name: Lais Malek
+    url: 
+  - name: Laís Cavalcanti (Desenvolvedora – Equipe técnica)
+    url: 
+  - name: Matheus Botelho
+    url: 
+  - name: Brenda Paes
+    url: 
+  - name: Samia Oliveira
+    url: 
   - name: 
     url: 
 ---
 
-**PERFIL DE COLABORADORES:**
+[telas-emmovimento.org](http://www.telas-emmovimento.org/){:target="_blank"}
   
-Artistas; ilustradores; guionistas; desarrolladores web; diseñadores; escritores; profesionales de audiovisual; profesionales de animación. 
+“Pantallas en Movimiento” es un Festival de Cine de las Periferias de Amazônia. Protagonizado por personas de estas periferias, tiene como objetivo la democratización del acceso al cine. Frente la pandemia, el proyecto ha redireccionado sus acciones al combate de la Covid-19. Este año hemos visto cientos de familias de barrios periféricos y comunidades ribereñas en Belém, movilizando agentes de salud y campañas de comunicación comunitaria, distribuyendo cestas básicas, kits de higiene, máscaras y kits pedagógicos con dibujos - el “Pantallas de Esperanza”. Desarrollado por el colectivo “Pretinta” - de enseñanza de arte en comunidades periféricas - estos kits intentan estimular a los niños de las periferias a crearen historias de un futuro en que la gente supera el CoronaVirus y salva la sociedad.
   
-**RESUMEN:**
+Para el “Laboratório de Emergência”, el objetivo de Pantallas de Esperanza (título que también nombra esta fase del trabajo), es hacer disponible un sitio exclusivo del proyecto totalmente en línea. A través del desarrollo de este sitio propio, vamos a compartir materiales producidos en el proyecto desde el año pasado: documentales, fotos y videos, mapas de acción, equipo de trabajo, etc. Además, anunciaremos, a través de este sitio, una convocación para películas que deseen participar en la edición en línea del Festival.
   
-Creación de un sitio/plataforma online con animación, producida a partir de historias nacidas por los niñas/os de las periferias, que recibirán un kit pedagógico de diseño. 
-  
-Una iniciativa del proyecto “Telas de esperanza”. Elaborado en compañía con Colectivo Pretinta, que da clases de arte en comunidades periféricas. Este kit busca estimular a las niñas/os de las periferias a construir la historia de un futuro, donde la población está segura y combate el covid-19. Este año, el proyecto atendió a más de 200 familias de barrios periféricos y comunidades de la ribera de Belém, distribuyendo cestas básicas, kits de higiene, mascarillas y kits pedagógicos de diseño.
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z08nsuJ026s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

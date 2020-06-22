@@ -28,6 +28,9 @@ swipebox: inclusive
 
 “Inclusive” is a project whose aims are to develop an autonomous network system for sharing educational materials in text, audio and video formats; and to publish the methodology so it can be replicated by communities with reduced connectivity resources and in situation of social isolation. A booklet was prepared with instructions for implementing the system, and with the concepts emerged during its development. A low cost solution was proposed for a media server whose content is available to the local community through a wi-fi network, accessible with cell phones or computers. The network administration is conducted by the community itself, its structure is based on free software, and it works independently from internet access.
 
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3ezYRKeA84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [MANUAL DOWNLOAD](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
