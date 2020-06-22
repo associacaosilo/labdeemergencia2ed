@@ -1,20 +1,37 @@
 ---
 layout: list
-title: Community Networks for Online Learning Environments
+title: Inclusive
 proponent:
-  - name: Aluizio Barbosa de Oliveira Neto and Rodrigo Borges - Belo Horizonte, MG
-    url: 
+  - name: Aluizio Barbosa de Oliveira Neto - Belo Horizonte, MG
+    url: mailto: aluizioneto@risup.net
+  - name: Rodrigo Borges - Belo Horizonte, MG
+    url: mailto: rcaborges@yahoo.com.br
 cover: 
 permalink: /en/ambientes-virtuais/
 people:
-  - name: 
+  - name: Andrey Borges Bernardes
+    url: 
+  - name: Aparecida Torrecillas
+    url: 
+  - name: Bernardo Baião
+    url: 
+  - name: Brenno Brandalise Demarchi
+    url: 
+  - name: Cristiano Tavares
+    url: 
+  - name: Mariana Zani (Mediadora)
     url: 
 ---
 
-**PROFILE OF COLLABORATORS:**
-  
-Public school teachers and principals; professionals with previous work experience in communities and slums; pedagogues; distance learning professionals.
+**Inclusive – Community Networks for Online Learning Environments**
 
-**RESUMO:**
+“Inclusive” is a project whose aims are to develop an autonomous network system for sharing educational materials in text, audio and video formats; and to publish the methodology so it can be replicated by communities with reduced connectivity resources and in situation of social isolation. A booklet was prepared with instructions for implementing the system, and with the concepts emerged during its development. A low cost solution was proposed for a media server whose content is available to the local community through a wi-fi network, accessible with cell phones or computers. The network administration is conducted by the community itself, its structure is based on free software, and it works independently from internet access.
+
+
+[MANUAL DOWNLOAD](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
-The Community Networks for Online Learning Environments project has as its main goal the development of an autonomous system for the sharing of teaching materials in text, audio and video, particularly those applicable to communities with scarce connectivity resources and in a situation of social isolation. In order to achieve this, the project proposes the design of a low-cost solution to implement a local media server. There, content can be inserted manually by a tutor / teacher and then becomes available to the local community through a wireless network. The network is managed by the community itself, its entire structure is based on free software and it works even without access to the internet, which prevents it from being subject to data plan franchise limits.
+[CODE](http://libreroom.org/inclusive/code){:target="_blank"}
+
+
+
+
