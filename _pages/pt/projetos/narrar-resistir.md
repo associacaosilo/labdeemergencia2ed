@@ -33,7 +33,7 @@ people:
     url: https://linktr.ee/fernandadegolin
 ---
   
-[narrareresistir.org/](http://narrareresistir.org/)
+[narrareresistir.org/](http://narrareresistir.org/){:target="_blank"}
   
 Acreditando no poder das histórias em tempos difíceis, Narrar é Resistir,pretende conectar os moradores do entorno do Córrego do Capão e outras comunidades ribeirinhas de Venda Nova, entre si, por meio de suas histórias e também falar "para fora" e dar visibilidade para as vivências e conflitos de um grupo marginalizado da capital de Minas Gerais. O objeto é coletar as histórias, editá-las e divulgá-las. Pensamos, inicialmente, em utilizar a plataforma do Instagram e do WhatsApp para divulgar as narrativas.
   

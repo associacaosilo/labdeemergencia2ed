@@ -12,7 +12,7 @@ people:
 ---
 
 
-[clubinhodolivro.com](https://clubinhodolivro.com/)
+[clubinhodolivro.com](https://clubinhodolivro.com/){:target="_blank"}
   
   
 Desarrollo de un prototipo para una aplicación de entrenamiento de lectura, con bajo consumo de datos y opciones de operación fuera de línea, dirigido a niños entre 7 y 10 años, en la fase de alfabetización.

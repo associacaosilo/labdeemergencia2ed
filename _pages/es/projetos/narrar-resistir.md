@@ -35,7 +35,7 @@ people:
     url: 
 ---
   
-[narrareresistir.org/](http://narrareresistir.org/)
+[narrareresistir.org/](http://narrareresistir.org/){:target="_blank"}
   
    
 Al creer en el poder de las historias en tiempos difíciles, Narrar es Resistir, tiene la intención de conectar a los residentes de Córrego do Capão y otras comunidades ribereñas de Venda Nova, a través de sus historias y también hablar "abiertamente" y dar visibilidad a las experiencias y conflictos de un grupo marginado en la capital de Minas Gerais. El objetivo es recopilar las historias, editarlas y difundirlas. Inicialmente pensamos en usar la plataforma de Instagram y WhatsApp para difundir las narrativas.

@@ -21,15 +21,16 @@ people:
     url:
   - name: Ariadne V. Melo (Desenvolvedora | Equipe técnica)
     url: 
+swipebox: roteiros
 ---
 
-[iniciativamultiespecies.net/](https://iniciativamultiespecies.net/)
+[iniciativamultiespecies.net/](https://iniciativamultiespecies.net/){:target="_blank"}
   
 El objetivo general del proyecto es contribuir al conocimiento sobre los virus contemporáneos relacionados con los animales (pandémicos o no), a la discusión del Antropoceno y a la construcción de una "vida multiespecies". Entendemos que la construcción de una nueva normalidad pospandémica requiere el establecimiento de otra relación con la naturaleza, especialmente con los animales. Por lo tanto, buscamos lograr este objetivo a través de un sitio web que proporcione guías educativas sobre la relación entre los animales humanos domesticados, utilizando herramientas de aprendizaje a distancia, ciencia ciudadana y la aplicación Fiocruz Siss-Geo. Se alentará a las partes interesadas a producir datos y analizarlos en función de la lógica científica y a reflexionar sobre la información relacionada con el tema del proyecto.
   
 En el laboratorio comenzamos a trabajar en la creación del sitio web para albergar el Programa de Iniciativa Multiespecies, en el cual se insertan los scripts.
   
-Nuestro objetivo era implementar el sitio durante el laboratorio, pero esto no fue completamente posible por razones técnicas relacionadas con el "tema" que definimos para el uso uso de recursos de aprendizaje a distancia. Durante este período, se registró el dominio [iniciativamultiespecies.net/](https://iniciativamultiespecies.net/), se contrató el alojamiento y, en este momento, el programador que colabora con el equipo está estructurando el sitio en WordPress. Continuaremos implementando el sitio web, los contenidos y las hojas de ruta después del laboratorio, con el apoyo técnico del equipo movilizado por Silo. Hasta ahora, hemos avanzado en el diseño y el formato de las hojas de ruta y en la construcción de la identidad visual del sitio web, los logotipos del programa y las hojas de ruta. Como depósito provisional de materiales, se creó una página de Facebook [@roteirosanimais](https://www.facebook.com/roteirosanimais).
+Nuestro objetivo era implementar el sitio durante el laboratorio, pero esto no fue completamente posible por razones técnicas relacionadas con el "tema" que definimos para el uso uso de recursos de aprendizaje a distancia. Durante este período, se registró el dominio [iniciativamultiespecies.net/](https://iniciativamultiespecies.net/){:target="_blank"}, se contrató el alojamiento y, en este momento, el programador que colabora con el equipo está estructurando el sitio en WordPress. Continuaremos implementando el sitio web, los contenidos y las hojas de ruta después del laboratorio, con el apoyo técnico del equipo movilizado por Silo. Hasta ahora, hemos avanzado en el diseño y el formato de las hojas de ruta y en la construcción de la identidad visual del sitio web, los logotipos del programa y las hojas de ruta. Como depósito provisional de materiales, se creó una página de Facebook [@roteirosanimais](https://www.facebook.com/roteirosanimais){:target="_blank"}.
 
 
 <div class="video-wrapper video-wrapper-16x9">
