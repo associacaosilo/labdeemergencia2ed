@@ -3,7 +3,7 @@ layout: list
 title: S.O.S Coronavírus
 proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
-    url: 
+    url: https://instagram.com/lirarodolfoo  
 cover: /media/images/covers/soscorona.png
 permalink: /pt/sos-coronavirus/
 people:
@@ -11,6 +11,7 @@ people:
     url: 
   - name: Luisa Ritter (Mediação)
     url: 
+swipebox: soscorona
 ---
 
 
@@ -24,3 +25,6 @@ App focado na experiência do usuário, ciclo de vida e território.
 
 
 [Códigos disponíveis](https://github.com/richardjlv/UpSaude){:target="_blank"}
+
+
+[INSTAGRAM DO PROJETO](https://instagram.com/upsaudeapp){:target="_blank"}
