@@ -46,3 +46,7 @@ Al creer en el poder de las historias en tiempos difíciles, Narrar es Resistir,
 **Lo que se logró:** construcción de un episodio piloto de podcast “Narrar es resistir”, que tiene tres historias, además de crear una página web del proyecto para almacenar los contenidos y permitir que el público interesado participe.
   
 **Próximos pasos:** continuidad de la producción de los episodios, diseminación del proyecto por los medios de comunicación diversos (redes de Whatsapp, radios colaboradoras, etc.). Buscar nuevas colaboraciones, con interés de expandir el proyecto más allá de la RMBH, siguiendo el curso en dirección de la naciente y afluentes del “Río das Velhas”. Futuramente, lo que se desea es conectar esta cuenca a otras cuencas hidrográficas de Minas Gerais y de otras provincias brasileñas, creando una red de narrativas ribereñas.
+
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1g7KnG7pFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

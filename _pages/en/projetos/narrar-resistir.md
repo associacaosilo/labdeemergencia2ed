@@ -35,7 +35,7 @@ people:
     url: 
 ---
   
-[narrareresistir.org/](http://narrareresistir.org/){:target="_blank"}
+[narrareresistir.org](http://narrareresistir.org/){:target="_blank"}
   
 To narrate is to merge past, present, future and imaginary. To tell stories is to set foot on the ground and at the same time seek the skies. As Guimarães Rosa said, "to narrate is to resist", it is to be alive, exhibiting life, talking about life, demanding life. Ailton Krenak added to the same idea by saying that the end of the world is postponed whenever we are able to tell yet another story. Because we believe in the power of stories in difficult times, we propose the project To Narrate Is to Resist, an online collection of diverse narratives. The storytellers will be residents of the areas surrounding Córrego do Capão and other riverside communities of Venda Nova. The listeners will be their friends, neighbors and others who are not only interested in postponing the end of the world, but willing to get to know other worlds. 
   
@@ -44,3 +44,7 @@ To narrate is to merge past, present, future and imaginary. To tell stories is t
 **Accomplishments:** release of one pilot episode of “Whenever I tell, I resist” that contain three different stories of local residents. Moreover, a web page was created in order to store all content that is being produced and also enable those who are interested to participate.
   
 **Next steps:** continue the production of new episodes as well as the publicization of the project within diverse types of midea (Whatsapp, radio, etc.). Pursuit new partnerships as a way of expanding the project to places that are beyond Belo Horizonte frontiers. The main purpose is to allow the stories and its narrators to follow the course of the river until its source and affluents. As a long term aim, we believe that the connection of different rivers can be made, including those in other states and regions. If so, a network of “ribeirinhas” stories could be created.
+
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1g7KnG7pFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
