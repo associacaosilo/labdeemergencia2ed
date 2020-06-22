@@ -4,7 +4,7 @@ title: SOS Coronavirus
 proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
     url: https://instagram.com/lirarodolfoo 
-cover: /media/images/covers/projeto_soscorona.png
+cover: /media/images/covers/projeto_sos.png
 permalink: /en/sos-coronavirus/
 people:
   - name: Richard Junior (Desenvolvedor | Equipe técnica)
