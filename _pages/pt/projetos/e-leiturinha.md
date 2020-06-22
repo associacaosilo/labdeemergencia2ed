@@ -4,7 +4,7 @@ title: E-leiturinha app
 proponent:
   - name: Taís Rocha Ribeiro - Salvador, BA
     url: 
-cover:
+cover: /media/images/covers/e-leiturinha.png
 permalink: /pt/e-leiturinha
 people:
   - name: 

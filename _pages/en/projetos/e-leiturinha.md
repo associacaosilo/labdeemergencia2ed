@@ -4,7 +4,7 @@ title: Little E-reading (E-leiturinha) app
 proponent:
   - name: Taís Rocha Ribeiro - Salvador, BA
     url: 
-cover:
+cover: /media/images/covers/e-leiturinha.png
 permalink: /en/e-leiturinha
 people:
   - name: 
