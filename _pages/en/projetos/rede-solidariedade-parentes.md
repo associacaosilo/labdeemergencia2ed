@@ -31,6 +31,7 @@ people:
     url: 
   - name: 
     url: 
+swipebox: parentes
 ---
 
 [Campanha de Vakinha](https://www.vakinha.com.br/vaquinha/acao-solidaria-etnia-terena-no-combate-ao-covid19){:target="_blank"}
