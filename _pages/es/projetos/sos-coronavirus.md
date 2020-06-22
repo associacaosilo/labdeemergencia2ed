@@ -7,7 +7,9 @@ proponent:
 cover: /media/images/covers/soscorona.png
 permalink: /es/sos-coronavirus/
 people:
-  - name: 
+  - name: Richard Junior (Desenvolvedor | Equipe técnica)
+    url: 
+  - name: Luisa Ritter (Mediação)
     url: 
 ---
 
