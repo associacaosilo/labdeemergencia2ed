@@ -29,6 +29,7 @@ people:
     url: 
   - name: 
     url: 
+swipebox: tela
 ---
 
 [telas-emmovimento.org](http://www.telas-emmovimento.org/){:target="_blank"}
