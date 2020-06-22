@@ -4,7 +4,7 @@ title: Canvases of Hope
 proponent:
   - name: Joyce Cursino | Negritar - Belém, PA
     url: mailto:negritarcomunicacao@gmail.com 
-cover:  /media/images/covers/tela.png
+cover:  /media/images/covers/projeto_telas.png
 permalink: /en/projeto-negritar/
 people:
   - name: Juliana Vieira
