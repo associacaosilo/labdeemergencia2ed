@@ -6,7 +6,7 @@ proponent:
     url: mailto: aluizioneto@risup.net
   - name: Rodrigo Borges - Belo Horizonte, MG
     url: mailto: rcaborges@yahoo.com.br
-cover: 
+cover: /media/images/covers/inclu.jpeg
 permalink: /en/ambientes-virtuais/
 people:
   - name: Andrey Borges Bernardes
@@ -21,6 +21,7 @@ people:
     url: 
   - name: Mariana Zani (Mediadora)
     url: 
+swipebox: inclusive
 ---
 
 **Inclusive – Community Networks for Online Learning Environments**

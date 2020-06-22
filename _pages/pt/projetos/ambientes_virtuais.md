@@ -2,9 +2,11 @@
 layout: list
 title: Inclusive
 proponent:
-  - name: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges - Belo Horizonte, MG
-    url: 
-cover:
+  - name: Aluizio Barbosa de Oliveira Neto - Belo Horizonte, MG
+    url: mailto: aluizioneto@risup.net
+  - name: Rodrigo Borges - Belo Horizonte, MG
+    url: mailto: rcaborges@yahoo.com.br
+cover:/media/images/covers/inclu.jpeg
 permalink: /pt/ambientes-virtuais/
 people:
   - name: Andrey Borges Bernardes
@@ -19,6 +21,7 @@ people:
     url: 
   - name: Mariana Zani (Mediadora)
     url: 
+swipebox: inclusive
 ---
 
 **Redes Comunitárias para Ambientes Virtuais de Aprendizagem**
