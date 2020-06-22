@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Cinco propostas para adiar o fim do mundo - Plataforma Liberte o Futuro
+title: Plataforma Liberte o Futuro
 proponent:
   - name: Raquel Rosenberg - São Paulo 
     url:  
@@ -20,6 +20,8 @@ people:
   - name: Lina Lopes (Desenvolvedora | Equipe técnica)
     url: 
 ---
+
+**Cinco propostas para adiar o fim do mundo - Plataforma Liberte o Futuro**
 
 O projeto nasce anteriormente, com o objetivo de convidar pessoas a fazerem vídeos de 1min em suas redes sociais usando a #liberteofuturo ou #freethefuture propondo futuros pós pandemia, com base em cinco provocações:
   
