@@ -7,7 +7,9 @@ proponent:
 cover: /media/images/covers/e-leiturinha.png
 permalink: /en/e-leiturinha
 people:
-  - name: 
+  - name: Geisa Santos
+    url: 
+  - name: Laura Chacur
     url: 
 ---
 

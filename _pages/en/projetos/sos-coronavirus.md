@@ -7,6 +7,22 @@ proponent:
 cover: /media/images/covers/projeto_sos.png
 permalink: /en/sos-coronavirus/
 people:
+  - name: Lucenildo Cerqueira
+    url: 
+  - name: João Paulo Ferreira
+    url: 
+  - name: Carla Rodrigues Perdiz
+    url: 
+  - name: Ana Luiza Oliveira Barreto
+    url: 
+  - name: Luis Eduardo Pinheiro
+    url: 
+  - name: Suelane Alves da Silva
+    url: 
+  - name: Camila C. de Paula
+    url: 
+  - name: Lucenildo Cerqueira
+    url: 
   - name: Richard Junior (Desenvolvedor | Equipe técnica)
     url: 
   - name: Luisa Ritter (Mediação)
