@@ -4,17 +4,13 @@ title: SOS Coronavirus
 proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
     url: 
-cover:
+cover: /media/images/covers/soscorona.png
 permalink: /en/sos-coronavirus/
 people:
   - name: 
     url: 
 ---
 
-**PROFILE OF COLLABORATORS:** 
-  
-Back-end and front-end developers; creative people with collaborative work skills; physicians; nurses; health and technology professionals; health managers. 
+[ACESSO À PLATAFORMA](https://soscoronavirus.bubbleapps.io/){:target="_blank"}
 
-**ABSTRACT:**
-  
 SOS Coronavirus is a remote monitoring and heath promotion system powered by artificial intelligence. It offers telemedicine support and remote appointment scheduling, including an online pre-consultation focused on user experience and predictive analysis through data intelligence.

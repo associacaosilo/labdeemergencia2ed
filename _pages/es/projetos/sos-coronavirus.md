@@ -4,17 +4,20 @@ title: S.O.S Coronavírus
 proponent:
   - name: Rodolfo Aragão de Lira - Natal, RN 
     url: 
-cover:
+cover: /media/images/covers/soscorona.png
 permalink: /es/sos-coronavirus/
 people:
   - name: 
     url: 
 ---
 
-**PERFIL DE COLABORADORES:**
+[ACESSO À PLATAFORMA](https://soscoronavirus.bubbleapps.io/){:target="_blank"}
   
-Desenvolvedoras/es back end e front end; pessoas criativas e com capacidade de trabalho colaborativo; médicas/os; enfermeiras/es; profissionais de saúde e tecnologia e gestores da área de saúde. 
+O SOS Coronavírus é um sistema de monitoramento remoto e promoção à saúde por inteligência artificial com suporte de telemedicina, apoio emocional e predição de tristeza, anedonia e desesperança por machine learning, avalinado expressões não verbais.
 
-**RESUMO:**
-  
-O SOS Coronavírus é um sistema de monitoramento remoto e promoção à saúde por inteligência artificial com suporte de telemedicina e marcação de consultas remotas com pré-consulta virtual focado na experiência do usuário e análise preditiva para saúde por meio de inteligência de dados.
+Ele pode ser usado também para marcação de consultas remotas com pré-consulta virtual focado na experiência do usuário e análise preditiva para saúde por meio de inteligência de dados.
+
+App focado na experiência do usuário, ciclo de vida e território.
+
+
+[Códigos disponíveis](https://github.com/richardjlv/UpSaude){:target="_blank"}
