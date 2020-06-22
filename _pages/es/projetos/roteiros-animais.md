@@ -10,5 +10,8 @@ people:
   - name: 
     url: 
 ---
+
+  
+[iniciativamultiespecies.net/](https://iniciativamultiespecies.net/)
   
 El proyecto aplica los conceptos de ciencia ciudadana, salud única y salud salvaje en la estructuración de rutas para aprender sobre las relaciones entre los animales humanos domesticados y salvajes, con un enfoque en la conservación del medio ambiente y los problemas de salud que afectan a todos los involucrados en estas relaciones. Los guiones estarán disponibles a través de un sitio web, con recursos metodológicos y didácticos de educación a distancia, y deben contribuir, entre otros, al conocimiento sobre los virus contemporáneos relacionados con los animales (pandemia o no), a la discusión del Antropoceno y a la construcción de un "Vida multiespecies".
