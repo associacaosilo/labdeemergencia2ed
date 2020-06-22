@@ -4,7 +4,7 @@ title: Telas da Esperança
 proponent:
   - name: Joyce Cursino | Negritar - Belém, PA
     url: mailto:negritarcomunicacao@gmail.com 
-cover:  /media/images/covers/telas.png
+cover:  /media/images/covers/tela.png
 permalink: /pt/projeto-negritar/
 people:
   - name: Juliana Vieira
