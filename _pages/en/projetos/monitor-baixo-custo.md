@@ -3,7 +3,7 @@ layout: list
 title: Low-Cost Multi-parameter Monitor
 proponent:
   - name: Rafael Teixeira Santos - São Paulo 
-    url: 
+    url: mailto:rafaet.santos@hotmail.com
 cover: /media/images/covers/monitor.png
 permalink: /en/monitor-baixo-custo/
 people:

@@ -1,6 +1,6 @@
 ---
 layout: list
-title: E-leiturinha app
+title: Clubito del Libro
 proponent:
   - name: Taís Rocha Ribeiro - Salvador, BA
     url: 

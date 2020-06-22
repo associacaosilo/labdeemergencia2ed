@@ -3,7 +3,7 @@ layout: list
 title: Monitor multiparamétrico de bajo costo
 proponent:
   - name: Rafael Teixeira Santos - São Paulo 
-    url: 
+    url: mailto:rafaet.santos@hotmail.com
 cover: /media/images/covers/monitor.png
 permalink: /es/monitor-baixo-custo/
 people:

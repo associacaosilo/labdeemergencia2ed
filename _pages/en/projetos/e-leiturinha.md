@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Little E-reading (E-leiturinha) app
+title: Reading Club
 proponent:
   - name: Taís Rocha Ribeiro - Salvador, BA
     url: 
