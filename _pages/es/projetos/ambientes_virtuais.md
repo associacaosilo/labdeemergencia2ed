@@ -3,9 +3,9 @@ layout: list
 title: Inclusive
 proponent:
   - name: Aluizio Barbosa de Oliveira Neto - Belo Horizonte, MG
-    url: mailto: aluizioneto@risup.net
+    url: mailto:aluizioneto@risup.net
   - name: Rodrigo Borges - Belo Horizonte, MG
-    url: mailto: rcaborges@yahoo.com.br
+    url: mailto:rcaborges@yahoo.com.br
 cover: /media/images/covers/inclu.jpeg
 permalink: /es/ambientes-virtuais/
 people:
