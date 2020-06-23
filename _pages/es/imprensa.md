@@ -1,6 +1,6 @@
 ---
 layout: list_dicas
-title: IMPRENSA
+title: PRENSA
 permalink: /es/imprensa/
 ---
 
