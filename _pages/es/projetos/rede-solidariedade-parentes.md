@@ -25,6 +25,8 @@ people:
     url: 
   - name: Danilda Custódio
     url: 
+  - name: Dina Bressan
+    url: 
   - name: Mariana Almeida Zani
     url: 
   - name: Rafael Fares
