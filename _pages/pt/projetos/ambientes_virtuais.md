@@ -19,7 +19,7 @@ people:
     url: 
   - name: Cristiano Tavares
     url: 
-  - name: Mariana Zani (Mediadora)
+  - name: Mariana Almeida Zani (Mediação)
     url: 
 swipebox: inclusive
 ---
@@ -36,7 +36,7 @@ Também foi criada uma cartilha instrutiva sobre o conceito e implementação do
 
 [FAÇA AQUI O DOWNLOAD DA CARTILHA](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
-[CÓDIGO](http://libreroom.org/inclusive/code){:target="_blank"}
+Em breve o [CÓDIGO](http://libreroom.org/inclusive/code){:target="_blank"} será postado nesse link.
 
 
 --- 

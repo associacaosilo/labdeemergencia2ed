@@ -25,7 +25,7 @@ people:
     url: 
   - name: Danilda Custódio
     url: 
-  - name: Mariana Almeida Zani
+  - name: Mariana Almeida Zani (Mediação)
     url: 
   - name: Rafael Fares
     url: 

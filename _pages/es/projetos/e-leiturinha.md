@@ -11,6 +11,8 @@ people:
     url: 
   - name: Laura Chacur
     url: 
+  - name: Luísa Ritter (Mediação)
+    url: 
 ---
 
 

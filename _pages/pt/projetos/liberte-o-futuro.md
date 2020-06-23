@@ -32,7 +32,7 @@ Que futuro você quer libertar?
 4º - Emergência climática: sugira ações para impedir a destruição da natureza, garantindo a continuidade de todas as formas de vida no planeta;
 5º - Insurreição: defina a melhor ação de desobediência civil para criar o futuro onde você quer viver!
   
-O objetivo inicial no Lab Emergência era a criação da plataforma que irá hospedar os vídeos, mas fomos além, de acordo com as habilidades dos colaboradores, construindo também a estratégia e cronograma de redes sociais e organização do funcionamento da curadoria dos vídeos, além da mobilização nacional e internacional para que o movimento tenha alcance após o lançamento, em 5 de Julho.
+Durante o Lab Emergência o objetivo era criar uma plataforma para hospedar os vídeos, mas fomos além, de acordo com as habilidades dos colaboradores, construimos também:  estratégia de comunicação;  cronograma de redes sociais; organização do funcionamento da curadoria dos vídeos, além da mobilização nacional e internacional para que o movimento tenha alcance após o lançamento, em 5 de Julho.
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drXsfDAHq18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

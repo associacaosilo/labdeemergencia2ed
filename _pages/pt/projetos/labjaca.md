@@ -27,6 +27,8 @@ people:
     url: 
   - name: Fernanda Degolin  (Desenvolvedora – Equipe técnica)
     url: 
+  - name: Luísa Ritter (Mediação)
+    url: 
   - name: 
     url: 
   - name: 

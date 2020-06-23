@@ -42,7 +42,9 @@ people:
   - name: Natasha Gabriel (Mentoria)
     url:    
   - name: Fernanda Tosta (Mentoria)
-    url:   
+    url:  
+  - name: Luísa Ritter (Mediação)
+    url:  
 ---
 
 **Free Furniture: a platform to disseminate furniture and objects for domestic and common spaces**

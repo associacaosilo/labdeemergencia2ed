@@ -19,6 +19,8 @@ people:
     url: 
   - name: Tono Guimarães
     url: 
+  - name: Luísa Ritter (Mediação)
+    url: 
   - name: 
     url:
 swipebox: incubadora

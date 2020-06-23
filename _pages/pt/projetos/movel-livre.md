@@ -43,6 +43,8 @@ people:
     url:    
   - name: Fernanda Tosta (Mentoria)
     url: 
+  - name: Luísa Ritter (Mediação)
+    url: 
   - name: 
     url: 
 ---

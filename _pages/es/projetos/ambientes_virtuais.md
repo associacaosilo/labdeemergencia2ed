@@ -37,7 +37,7 @@ También se creó un folleto instructivo sobre el concepto y la implementación 
 
 [DESCARGA EL MANUAL](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
-[CODIGO](http://libreroom.org/inclusive/code){:target="_blank"}
+Pronto el [CODIGO](http://libreroom.org/inclusive/code){:target="_blank"} sera publicado en esta liga.
 
 
 

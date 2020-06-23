@@ -16,8 +16,8 @@ A ansiedade pelo fim da pandemia de coronavirus muitas vezes é associada a um d
 Com o mote “Cinco propostas para adiar o fim do mundo”, livremente inspirado no livro do indígena Ailton Krenak, o movimento tem o objetivo de pensar o futuro pós-pandemia. Para isso a ideia é reunir um grande número de relatos de pessoas do mundo inteiro respondendo à cinco provocações: 1) antídoto para o fim do mundo: qual é a maior mudança que você imagina? / 2) democracia, reforma política e políticas públicas: o que você acredita que precisa mudar? / 3) consumo: qual é a sua proposta de mudança? / 4) emergência climática: quais soluções você propõe? / 5) insurreição: qual é a maior ação de desobediência civil que possa ser feita hoje para construir o futuro?
   
 A ideia é que, a partir do lançamento da plataforma, no dia 05 de julho, as pessoas gravem vídeos de até 1 minutos à partir dessas provocações, e postem em suas redes sociais usando a hashtag #liberteofuturo. Todo o material será reunido no site. A partir daí serão propostos laboratórios colaborativos de três meses de duração, onde serão criadas ações que possam transformar essas propostas em realidade.
-
-
+  
+  
  
 ---
 

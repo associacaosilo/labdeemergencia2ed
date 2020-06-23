@@ -34,7 +34,7 @@ swipebox: inclusive
 
 [MANUAL DOWNLOAD](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
-[CODE](http://libreroom.org/inclusive/code){:target="_blank"}
+Soon the [CODE](http://libreroom.org/inclusive/code){:target="_blank"} will be published here.
 
 
 
