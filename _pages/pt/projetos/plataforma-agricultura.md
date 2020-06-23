@@ -50,3 +50,6 @@ Mangút é um site que tem como objetivo facilitar o escoamento de produção de
 </div>
   
 ---
+
+
+[IMPRENSA](/2ed/pt/imprensa/mangut)

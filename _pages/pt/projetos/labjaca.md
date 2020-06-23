@@ -40,3 +40,9 @@ Essa pesquisa visa mostrar como uma das maiores fontes de renda e lazer das fave
   
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttBaJJibHL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/funk)

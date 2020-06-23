@@ -22,3 +22,11 @@ Até o momento, foram realizados os circuitos eletrônicos iniciais, uma breve p
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnPS406ied0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/monitor)

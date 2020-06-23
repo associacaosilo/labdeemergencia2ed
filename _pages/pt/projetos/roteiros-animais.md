@@ -38,3 +38,8 @@ Nossa meta era implantar o site durante o Lab mas isso não foi possível plenam
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftk0LMPuUfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/roteiros)
+

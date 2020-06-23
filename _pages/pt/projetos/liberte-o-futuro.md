@@ -36,3 +36,9 @@ O objetivo inicial no Lab Emergência era a criação da plataforma que irá hos
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drXsfDAHq18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/liberte-o-futuro)

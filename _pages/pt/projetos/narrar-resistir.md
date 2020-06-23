@@ -45,3 +45,9 @@ Acreditando no poder das histórias em tempos difíceis, Narrar é Resistir,pret
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1g7KnG7pFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/narrar)

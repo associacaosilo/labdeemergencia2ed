@@ -37,3 +37,8 @@ Também foi criada uma cartilha instrutiva sobre o conceito e implementação do
 [FAÇA AQUI O DOWNLOAD DA CARTILHA](http://libreroom.org/inclusive/cartilha.pdf){:target="_blank"}
   
 [CÓDIGO](http://libreroom.org/inclusive/code){:target="_blank"}
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/inclusive)

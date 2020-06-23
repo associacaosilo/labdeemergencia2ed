@@ -44,3 +44,11 @@ App focado na experiência do usuário, ciclo de vida e território.
 
 
 [INSTAGRAM DO PROJETO](https://instagram.com/upsaudeapp){:target="_blank"}
+
+
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/sos)

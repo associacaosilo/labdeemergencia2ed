@@ -76,3 +76,9 @@ espaços? Como as pessoas podem lançar mão de sua potência de construir e tra
   ---
     
 [Plataforma e identidade visual](https://drive.google.com/file/d/1s-9qlIwof6PaFL4b12O_w6M5BKCKMRQA/view){:target="_blank"} 
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/movellivre)

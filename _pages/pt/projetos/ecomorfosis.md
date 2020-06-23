@@ -48,3 +48,8 @@ Também um site aberto vai ser deixado aberto para as famílias baixarem projeto
 [Instagram](https://instagram.com/ecomorfosislab){:target="_blank"}
   
 [Facebook](https://facebook.com/ecomorfosislab){:target="_blank"}
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/ecomorfosis)

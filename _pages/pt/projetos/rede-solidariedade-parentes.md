@@ -37,6 +37,11 @@ swipebox: parentes
 A proposta é uma rede de ação solidária entre mulheres do povo Terena que pretendem criar uma maneira de levantar recursos
 para produção e distribuição de materiais de proteção e higiene pessoais nas aldeias. O projeto reúne mulheres Terena na aldeia Limão Verde (Aquidauana - MS), Aldeinha (Anastácio - MS) e Ipegue ( Aquidauana - MS) nessa ação que culmina numa vakinha e contará com a prestação de contas ao final para lideranças e consequentemente para as comunidades, além da distribuição de produtos de higiene confeccionado pelas próprias mulheres, priorizando famílias com menores condições de conseguir tais produtos. As comunidades juntas somam pelo menos três mil pessoas.
 
+
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TtUMfY8IfgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+---
+
+[IMPRENSA](/2ed/pt/imprensa/parentes)

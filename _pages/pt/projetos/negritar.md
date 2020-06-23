@@ -44,3 +44,9 @@ Para a ação do Laboratório de Emergência, o objetivo do Telas da Esperança 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z08nsuJ026s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+
+--- 
+
+[IMPRENSA](/2ed/pt/imprensa/telas)
