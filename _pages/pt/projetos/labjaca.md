@@ -45,4 +45,4 @@ Essa pesquisa visa mostrar como uma das maiores fontes de renda e lazer das fave
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/funk)
+[IMPRENSA](/2ed/pt/imprensa/funk){:target="_blank"}

@@ -50,4 +50,4 @@ Acreditando no poder das histórias em tempos difíceis, Narrar é Resistir,pret
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/narrar)
+[IMPRENSA](/2ed/pt/imprensa/narrar){:target="_blank"}

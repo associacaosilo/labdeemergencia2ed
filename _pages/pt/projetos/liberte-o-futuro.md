@@ -41,4 +41,4 @@ O objetivo inicial no Lab Emergência era a criação da plataforma que irá hos
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/liberte-o-futuro)
+[IMPRENSA](/2ed/pt/imprensa/liberte-o-futuro){:target="_blank"}

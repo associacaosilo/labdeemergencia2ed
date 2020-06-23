@@ -40,5 +40,5 @@ Dentre as funcionalidades da plataforma desenvolvidas e/ ou ativadas est√£o fun√
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/manifao)
+[IMPRENSA](/2ed/pt/imprensa/manifao){:target="_blank"}
 

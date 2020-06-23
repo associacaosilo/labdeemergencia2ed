@@ -30,4 +30,4 @@ Crianças também são sujeitos políticos. Com boa parte das escolas fechadas, 
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/proteger)
+[IMPRENSA](/2ed/pt/imprensa/proteger){:target="_blank"}

@@ -29,4 +29,4 @@ Até o momento, foram realizados os circuitos eletrônicos iniciais, uma breve p
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/monitor)
+[IMPRENSA](/2ed/pt/imprensa/monitor){:target="_blank"}

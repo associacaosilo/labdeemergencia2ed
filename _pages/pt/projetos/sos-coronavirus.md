@@ -51,4 +51,4 @@ App focado na experiência do usuário, ciclo de vida e território.
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/sos)
+[IMPRENSA](/2ed/pt/imprensa/sos){:target="_blank"}

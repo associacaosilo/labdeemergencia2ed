@@ -44,4 +44,4 @@ para produção e distribuição de materiais de proteção e higiene pessoais n
 
 ---
 
-[IMPRENSA](/2ed/pt/imprensa/parentes)
+[IMPRENSA](/2ed/pt/imprensa/parentes){:target="_blank"}

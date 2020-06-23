@@ -81,4 +81,4 @@ espaços? Como as pessoas podem lançar mão de sua potência de construir e tra
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/movellivre)
+[IMPRENSA](/2ed/pt/imprensa/movellivre){:target="_blank"}

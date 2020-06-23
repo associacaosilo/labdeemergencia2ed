@@ -41,4 +41,4 @@ Também foi criada uma cartilha instrutiva sobre o conceito e implementação do
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/inclusive)
+[IMPRENSA](/2ed/pt/imprensa/inclusive){:target="_blank"}

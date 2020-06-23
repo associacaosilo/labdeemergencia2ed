@@ -41,5 +41,5 @@ Nossa meta era implantar o site durante o Lab mas isso não foi possível plenam
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/roteiros)
+[IMPRENSA](/2ed/pt/imprensa/roteiros){:target="_blank"}
 

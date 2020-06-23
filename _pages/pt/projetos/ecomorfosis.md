@@ -52,4 +52,4 @@ Também um site aberto vai ser deixado aberto para as famílias baixarem projeto
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/ecomorfosis)
+[IMPRENSA](/2ed/pt/imprensa/ecomorfosis){:target="_blank"}

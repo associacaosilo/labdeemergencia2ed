@@ -49,4 +49,4 @@ Para a ação do Laboratório de Emergência, o objetivo do Telas da Esperança 
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/telas)
+[IMPRENSA](/2ed/pt/imprensa/telas){:target="_blank"}

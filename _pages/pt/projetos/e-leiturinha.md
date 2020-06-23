@@ -24,4 +24,4 @@ Desenvolvimento de um protótipo para um aplicativo para treinamento de leitura,
 
 --- 
 
-[IMPRENSA](/2ed/pt/imprensa/clubinho)
+[IMPRENSA](/2ed/pt/imprensa/clubinho){:target="_blank"}
