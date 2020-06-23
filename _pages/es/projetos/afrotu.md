@@ -30,3 +30,6 @@ Creación y distribución de kits de identidad racial y cultural para niños afr
 El proyecto tiene como objetivo movilizar una red con mujeres negras emprendedoras y artesanas para producir Abayomis, libros y máscarillas infantiles con estampados africanos para promover el aprendizaje político y cultural.
 
 
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQgWK6SjGY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -29,7 +29,9 @@ O projeto está criando kits de identidade racial e cultural para crianças negr
   
 O projeto visa mobilizar uma rede com empreendedoras/es e artesãs/ãos negros para produção de Abayomis, livros e máscaras infantis com estampas afros para promover um aprendizado político e cultural.
 
-
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQgWK6SjGY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 --- 
 

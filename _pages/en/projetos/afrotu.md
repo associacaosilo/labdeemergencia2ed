@@ -28,3 +28,7 @@ Children are also political subjects. With most of the schools closed, kids from
 During the project they are creating racial and cultural identity kits for black children during social isolation through a network of black entrepreneurs and artisans. For black children to know and build their racial identity, it is essential to provide ways for them to feel represented. 
   
 The project aims to mobilize a network with black  entrepreneurs and artisans to produce Abayomis, books and children's masks with African prints in order to promote political and cultural learning.
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQgWK6SjGY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
