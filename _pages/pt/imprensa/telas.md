@@ -9,6 +9,8 @@ permalink: /pt/imprensa/telas/
 # Cinema das periferias da Amazônia
 **Produção do Telas em Movimento, que movimentou periferias de Belém em sua primeira edição, prepara festival online**
 
+*por Marcela Martins*
+
 Uma edição emergencial de um festival de cinema que nasceu com o objetivo de democratizar o acesso e incentivar narrativas periféricas no cinema nacional. Vem de Belém do Pará o projeto, que participou do Laboratório de Emergência Covid-19, promovido pela Silo - Arte e Latitude Rural, em parceria com o Instituto Procomum. O desafio era construir uma plataforma online para a edição remota do festival, ainda sem data agendada, mas que vai acontecer em breve. 
 
 O Telas em Movimento é um projeto de democratização do acesso ao cinema construído e protagonizado por pessoas de periferias e comunidades tradicionais de Belém do Pará, que acontece por meio do Festival de Cinema das Periferias da Amazônia. A primeira edição do projeto, realizada em 2019, foram feitas projeções públicas, rodas de conversa, cinedebates e oficinas. 

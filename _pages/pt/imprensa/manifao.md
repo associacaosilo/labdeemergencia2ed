@@ -9,6 +9,8 @@ permalink: /pt/imprensa/manifao/
 # O ciberespaço como lugar de protesto coletivo
 **Mais do que ativismo digital, plataforma propõe uma alternativa remota para manifestações **
 
+*por Marcela Martins*
+
 A combinação de ativismo digital e de manifestações de rua é provavelmente a forma mais efetiva de trazer visibilidade para uma causa, exigir o cumprimento ou a instituição de algum direito. A internet é um importante espaço de circulação de informações, de discussões reflexivas sobre a sociedade, e uma maneira inédita de interligar pessoas que atuam em prol de algo comum. O que a experiência das últimas décadas tem mostrado, porém, é que mesmo com a revolução digital os protestos e ações de mobilização que são feitos com presença física não perdem sua força, e são determinantes para as conquistas sociais. 
    
 Com o isolamento provocado pela pandemia de Covid19, e as aglomerações de rua temporariamente desaconselhadas, a internet se torna a alternativa mais segura de se manifestar. O exercício da livre opinião e o embate de ideias já acontece nas diversas plataformas existentes, especialmente nas redes sociais. Mas um grupo de ativistas e pesquisadores, atentos à importância dos protestos de rua, propõe uma nova alternativa às manifestações coletivas. O projeto MANIFÃO é uma das propostas desenvolvidas durante o Laboratório de Emergência COVID19 - Reconfigurando o futuro, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum. 

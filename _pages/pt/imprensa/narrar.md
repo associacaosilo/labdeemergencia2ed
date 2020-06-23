@@ -9,6 +9,8 @@ permalink: /pt/imprensa/narrar/
 # Histórias ribeirinhas para tempos difíceis
 **Projeto coleta relatos orais de moradores da bacia do Rio das Velhas**
 
+*por Marcela Martins*
+
 Ao longo dos 801 km da bacia do Velhas são muitas as histórias. Hoje mais de 4 milhões de pessoas habitam esse território, que corta 51 municípios mineiros. O rio é o maior afluente do São Francisco, e, junto ao Paraopeba, o principal manancial de abastecimento de Belo Horizonte e da região metropolitana. 
 
 De Ouro Preto, onde nasce, no parque das Andorinhas, até a foz, na Barra do Guaicuí, município de Várzea da Palma, o Rio das Velhas banha comunidades rurais, áreas de preservação e também grandes cidades. Foi às margens do Córrego do Capão, um de seus afluentes, que fica em Belo Horizonte, que surgiu o projeto Narrar é Resistir. A iniciativa é do coletivo Orla, que atua na região do Capão, bairro de Venda Nova, e foi desenvolvida durante o Laboratório de Emergência Covid-19, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum. 

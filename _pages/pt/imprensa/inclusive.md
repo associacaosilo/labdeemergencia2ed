@@ -9,6 +9,8 @@ permalink: /pt/imprensa/inclusive/
 # Educação na pandemia: rede autônoma possibilita aulas remotas para estudantes sem internet
 **Projeto desenvolve sistema de baixo custo e cartilha de implementação de redes comunitárias para professores e gestores escolares**
 
+*por Marcela Martins*
+
 Mais de um bilhão e meio de alunos em todo o mundo tiveram suas aulas presenciais suspensas e estão fora da escola por causa da pandemia de coronavirs. Em muitos casos o ensino remoto tem sido a opção. Mas principalmente em países com acentuada desigualdade social, como o Brasil, a educação não chega para todos. De acordo com o IBGE, dados de 2018, um em cada quatro brasileiros não têm acesso à internet. E de acordo com dados de pesquisa feita pela UNICEF, hoje são 4,8 milhões de crianças e adolescentes, na faixa de 9 a 17 anos, sem internet em casa. 
    
 O projeto Inclusive, desenvolvido durante o Laboratório de Emergência Covid-19, promovido pela Silo - Arte e Latitude Rural, em parceria com o Instituto Procomum, traça uma solução para escolas e comunidades que têm problemas de acesso à internet. Trata-se de uma solução de baixo custo para implementar um servidor local de mídia. Foi elaborada uma cartilha para professores e gestores da rede pública que ensina a implementar uma rede autônoma. Essa redes operam de forma independente da internet e são construídas à partir de softwares livres. A própria comunidade faz a gestão.

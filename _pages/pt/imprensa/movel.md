@@ -9,6 +9,8 @@ permalink: /pt/imprensa/movellivre/
 # Fica em casa
 **Plataforma reúne catálogo de móveis funcionais que melhoram o ambiente doméstico e podem ser construídos em casa**
 
+*por Marcela Martins*
+
 Ficar em casa é necessário. O isolamento social é a melhor forma de evitar a disseminação em larga escala do coronavirus. A quarentena, porém, escancara a desigualdade social, e a reclusão no ambiente doméstico é mais confortável e funcional para uns do que para outros. Diante desta percepção um grupo de arquitetos e projetistas aposta na melhoria dos espaços domésticos, de maneira acessível e autônoma, a partir do conceito do mobiliário como uma camada a mais da arquitetura, uma possibilidade de melhorar a infraestrutura das casas.   
 
 Um grande número de pessoas estão lidando com grandes desafios no isolamento, tendo que trabalhar, permanecer e conviver em casa. Os móveis, quando de qualidade, bem pensados e utilizados, podem melhorar essa experiência, auxiliando nas atividades cotidianas e qualificando a vida das pessoas em seus espaços.

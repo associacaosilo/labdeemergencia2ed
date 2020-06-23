@@ -9,6 +9,8 @@ permalink: /pt/imprensa/proteger/
 # Vidas negras importam
 **Projeto cria kits de identidade racial para crianças, para distribuição durante a quarentena**
 
+*por Marcela Martins*
+
 O assassinato do norte-americano George Floyd, homem negro, morto por sufocamento por um policial branco, provocou uma onda de protestos nos Estados Unidos e em todo mundo. Aqui no Brasil, mais um assassinato de jovem negro entrava nas estatísticas: João Pedro, de 14 anos, foi baleado pela polícia dentro de casa. Semanas depois, o menino Miguel, negro, de cinco anos, morreu ao cair do nono andar de um prédio de luxo. A mãe era empregada doméstica, e a criança estava sob responsabilidade da patroa branca por alguns minutos, que permitiu que ele entrasse no elevador desacompanhado. A fala do manifestante Wesley Teixeira, em ato no Rio de Janeiro, resume a urgência de ações contra o racismo, mesmo durante este período de enfrentamento ao coronavirus: “Viemos para a rua porque foram nos matar em casa”. 
   
 A proposta do Proteger e Aprender é aproveitar a quarentena para promover ações de educação com as crianças sobre identidade racial e cultural. O projeto é do coletivo Afrotu, da baixada santista, e foi desenvolvido durante o Laboratório de Emergência Covid-19, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum. 

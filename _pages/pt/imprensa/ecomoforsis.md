@@ -9,6 +9,8 @@ permalink: /pt/imprensa/ecomoforsis/
 # Diversão e educação ambiental na quarentena
 **Plataforma online reúne tutoriais de brinquedos e jogos sustentáveis para crianças e famílias**
 
+*por Marcela Martins*
+
 “A Covid-19 é a ameaça mais urgente que a humanidade enfrenta hoje, mas não podemos esquecer que as mudanças climáticas são a maior ameaça”. Essa foi a fala secretária-executiva da Convenção da ONU para Mudanças Climáticas, a COP26, adiada para 2021 por causa da pandemia. Ela traduz bem o tamanho do desafio que há tempos se desenha diante de nós. Para enfrentá-lo a ação precisa ser imediata.
 
 O uso indiscriminado do plástico é um dos principais  problemas ambientais que enfrentamos. Cerca de 70% do plástico consumido hoje é de uso único, o que significa que o volume de descarte é assustador. São oito milhões de toneladas de plástico chegando aos oceanos todos os anos. 

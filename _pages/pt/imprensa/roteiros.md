@@ -9,6 +9,8 @@ permalink: /pt/imprensa/roteiros/
 # Novas epidemias e relações multiespécies
 **O vírus que tinha o morcego como hospedeiro se tornou o problema mais urgente da humanidade. Projeto aposta na educação multiespécies para discutir uma relação mais saudável do homem com outros animais**
 
+*por Marcela Martins*
+
 O processo acontece desde sempre: um vírus que tem certa espécie animal como hospedeiro se adapta e migra para outra espécie, causando uma doença nova para esse grupo de animais. O coronavirus, causador da Covid-19 não é a primeira zoonose que se torna uma doença humana. A disseminação na nossa espécie de um vírus que causaria sérios danos estava no horizonte de virologistas e epidemiologistas há muito tempo. É claro que não se sabia como ele seria, e o que causaria. Mas o alerta já tinha sido feito. 
   
 A corrida no momento é por uma vacina que possa frear o contágio do vírus que assola a humanidade. Mas a verdade é que a Covid-19 não é a última epidemia que iremos enfrentar. E a culpa não é dos animais silvestres que são os hospedeiros originais do vírus. Muito pelo contrário, a destruição de seus habitats e a relação predatória que o homem estabeleceu com muitas dessas espécies são fatores que contribuem para a disseminação de vírus novos para o homem. 

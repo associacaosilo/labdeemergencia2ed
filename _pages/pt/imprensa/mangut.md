@@ -9,6 +9,8 @@ permalink: /pt/imprensa/mangut/
 # Alimento sem veneno e economia local mais forte
 **Site promove interface entre consumidor e pequenos produtores rurais em tempo real, garantindo venda sem atravessadores de produtos agroecológicos**
 
+*por Marcela Martins*
+
 O coronavirus é uma grande ameaça aos nossos corpos e saúde - mas não é a única. No momento em que fica clara a importância de nos mantermos saudáveis é preciso discutir, com urgência, nossa alimentação. Anualmente as lavouras brasileiras usam mais de 500 mil toneladas de agrotóxicos. Dois terços do que comemos tem veneno. O Instituto Nacional do Câncer alerta sobre o adoecimento de curto e médio prazo causado por isso. Dados da Organização Mundial de Saúde mostram que todos ao anos em média 20 mil pessoas morrem em decorrência do consumo de agrotóxicos. 
   
 A alternativa a isso é o incentivo da produção agroecológica. Para que ela se desenvolva são necessárias políticas públicas e investimentos, mas o papel do consumidor também é fundamental. Muitas vezes há o interesse em consumir orgânicos, mas nos centros das cidades pode ser difícil encontrar os produtos. Outros problema recorrente é o preço: por causa da presença de muitos atravessadores os vegetais chegam ao consumidor final muitas vezes com um preço bem mais elevado. 

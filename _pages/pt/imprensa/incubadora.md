@@ -9,6 +9,8 @@ permalink: /pt/imprensa/incubadora/
 # Sonhos no combate à pandemia
 **Laboratório de inovação social aplica metodologia baseada no exercício do sonhar com alunos de escola pública**
 
+*por Marcela Martins*
+
 O contexto de pandemia exige atenção ao presente, mas é fundamental ter perspectiva de longo prazo, mesmo diante de dias tão incertos. Parece clichê, mas a verdade é que é preciso sonhar. Foi pautado na potência do sonho como instrumento de transformação de realidades que surgiu o projeto Incubadora de Sonhos. Baseado na metodologia de gestão colaborativa Dragon Dreaming, o projeto tem o objetivo de provocar estudantes de ensino médio para ações coletivas. 
   
 Com a quarentena, a Incubadora de Sonhos, que atuava presencialmente na escola Paulo Freire, em Brasília, viu a necessidade de adaptar o projeto para o ambiente virtual. Esse foi o trabalho desenvolvido de maneira colaborativa durante o Laboratório de emergência Covid-19, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum. 

@@ -9,6 +9,8 @@ permalink: /pt/imprensa/funk/
 # Segue o baile
 **Pesquisa na favela do Jacarezinho investiga impactos econômicos da suspensão dos bailes funks; e propõe questões sobre o baile do futuro**
 
+*por Marcela Martins*
+
 O Brasil tem centenas de bailes funks realizados regularmente em favelas. Nas maiores, especialmente no Rio de Janeiro e em São Paulo, eles são eventos impressionantes, que atraem um público de milhares de pessoas em cada edição, gerando uma migração de pessoas de diferentes bairros e até de outros estados. A multidão lota as ruas apertadas pelo menos duas vezes por semana, consome, movimenta a economia das periferias. Na favela, além de ser a principal forma de entretenimento, o fluxo é o que garante a renda de muita gente.
   
 “Segue o baile” é uma gíria comum entre os fre	quentadores, e por um motivo. Tentativas de impedir a realização de bailes funk são comuns. Na maioria das vezes, o maior problema é a ação repressora da polícia militar. O ritmo já sofreu até mesmo uma tentativa oficial de criminalização: em 2015 um projeto de lei que previa a proibição do funk chegou a circular no congresso nacional. Inconstitucional, não foi aprovado. Mas o episódio escancara a realidade de repressão dessa cultura. 

@@ -9,6 +9,8 @@ permalink: /pt/imprensa/clubinho/
 # Aplicativo de livros gratuitos acompanha evolução da leitura das crianças
 **O app funciona como uma biblioteca compartilhada virtual, e por meio de recurso de voz a criança interage e recebe dicas para evoluir na leitura**
 
+*por Marcela Martins*
+
 Com a quarentena são muitos os desafio para pais e educadores, na tentativa de manter o aprendizado e também de entreter as crianças dentro de casa. O problema existe na maioria das famílias, mas se torna mais intenso em casas sem acesso à internet ou com conexão ruim. Em bairros sem bibliotecas ou que as viram fechar por causa da quarentena é ainda mais difícil oferecer livros de qualidade para crianças ou despertar nelas o tão precioso hábito de leitura. 
   
 O aplicativo Clubinho do Livro surge como uma resposta à esse desafio. Um protótipo da iniciativa foi desenvolvido durante a realização do Laboratório de Emergência Covid-19, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum. O app vai funcionar como uma biblioteca virtual, com obras de diferentes temas e autores, direcionadas à crianças de 7 a 10 anos. 

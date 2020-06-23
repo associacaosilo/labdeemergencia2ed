@@ -9,6 +9,8 @@ permalink: /pt/imprensa/monitor/
 # Tecnologias abertas no enfrentamento da pandemia
 **Pesquisadores desenvolvem hardware de baixo custo para equipamento médico fundamental em CTIs**
 
+*por Marcela Martins*
+
 O monitor multiparâmetros é um equipamento essencial em hospitais e Centros de Tratamento Intensivo (CTIs). Ele faz a leitura dos sinais vitais em tempo real, mostrando para a equipe médica qual é a condição de saúde do paciente, indicando por alarmes visuais e sonoros sua evolução ou piora. 	No geral, o equipamento mede temperatura, pressão, frequência cardíaca, e o nível de saturação de oxigênio no sangue. A oximetria (medição dos níveis de oxigênio na corrente sanguínea) tem sido um dos parâmetros usados na triagem para atendimento de pacientes com sintomas de Covid19, já que a forma grave da doença causa queda desses níveis.
    
 Os equipamentos atuais disponíveis no mercado nacional custam, os mais baratos, pelo menos R$ 5 mil. Além disso, no atual contexto de pandemia existe uma dificuldade dos governos de importar equipamentos de saúde. Durante o Laboratório de Emergência COVID19 - Reconfigurando o futuro, promovido pela Silo - Arte e Latitude Rural em parceria com o Instituto Procomum, um grupo de pesquisadores trabalhou em uma alternativa: um hardware de código aberto para monitores multiparâmetros de baixo custo. 
