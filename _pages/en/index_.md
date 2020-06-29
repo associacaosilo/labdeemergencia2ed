@@ -14,4 +14,5 @@ With a multidisciplinary character, the laboratory is characterized by the meeti
 Through two open calls, one for projects and one for collaborators, the Lab seeks projects mainly from rural and urban peripheries. It works to connect ideas with a large number of collaborators, spread these initiatives, help in structuring them so that they can be replicated and also offer mentoring and allowances for proposals.The Lab is an online event composed of self-managed work groups, using chat, video call, audio and streaming platforms.
   
 The Emergency Laboratory is a collaborative proposal that works on the development of projects under the participative logic using free licenses that allow replication and adaptation of projects to other contexts.
-Get to know the first edition of the Emergency Lab and other Silo laboratories here.
+Get to know the first edition of the Emergency Lab and other Silo laboratories:
+[Silo Labs](https://silo.org.br/interactivos/){:target="_blank"}

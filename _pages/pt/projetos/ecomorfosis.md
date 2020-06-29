@@ -33,7 +33,7 @@ swipebox: ecomorfosis
 **Atividades lúdicas e educativas para aprender conceitos de sustentabilidade e meio ambiente em família como modelo de educação alternativo para crianças durante o isolamento social pela COVID 19.**
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FGelhegRBwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XnwTxtKy_po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 Este é um mini laboratório na forma de pequenas atividades lúdicas e educativas com ferramentas simples para aprender conceitos de sustentabilidade e meio ambiente, como modelo de educação alternativa, para crianças durante o isolamento social pelo COVID 19. Estamos procurando gerar novos produtos, através do upcycling e re-assinar. Ex: Bonecas, chips de jogo, recipientes com garrafas, composteira, panelas, móveis, etc. Tem como objetivo conscientizar sobre a reciclagem, aprender habilidades práticas e gerar um vínculo com a família e o meio ambiente.

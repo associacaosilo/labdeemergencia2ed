@@ -35,7 +35,7 @@ swipebox: ecomorfosis
 **Actividades lúdicas y educativas para aprender conceptos de sostenibilidad y medio ambiente en la familia como modelo educativo alternativo para niños durante el aislamiento social promovido por el COVID19.**
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FGelhegRBwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XnwTxtKy_po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
     

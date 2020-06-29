@@ -35,10 +35,9 @@ swipebox: ecomorfosis
 **Playful and educational activities to teach sustainability and environment concepts in a family setting: an alternative education model for children during social isolation caused by COVID-19.**
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FGelhegRBwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XnwTxtKy_po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-  
     
 The proposal is to generate playful and educational activities to learn concepts of sustainability and environment as a model of alternative education for children during social isolation by COVID 19. We are looking to generate new products, through upcycling and re-sign. Ex: Dolls, game chips, containers with bottles, composter, pots, furniture, etc. It aims to raise awareness of recycling, learning practical skills and generating a link with family and the environment.
   

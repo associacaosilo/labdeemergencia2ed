@@ -50,7 +50,7 @@ La rápida adaptabilidad de este proyecto en el programa de estudios de la disci
 Los pasos siguientes se refieren a la implementación del proyecto piloto completo de la Incubadora Virtual de Sueños en el Centro de Escuela Secundaria Paulo Freire, incluyendo las etapas de planificación, realización y celebración de proyectos de colaboración, con una implementación efectiva en la escuela y/o en las comunidades.
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pw8OqTsz9dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zg_GvYle4Ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 ## ARCHIVOS PARA DESCARGAR:
