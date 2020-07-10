@@ -20,4 +20,4 @@ Conheça a 1 ed. do Lab de Emergência e outros laboratórios que realizamos aqu
 **E veja a documentação de outras edições:**
 
    
-[![](/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
+[![](/2ed/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
