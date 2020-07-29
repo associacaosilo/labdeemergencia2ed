@@ -15,9 +15,3 @@ Realizado por meio de duas chamadas abertas, uma para projetos e outra para cola
 O Laboratório de Emergência é uma proposta colaborativa que trabalha o desenvolvimento de projetos sob a lógica participativa usando de licenças livres que permitam replicação e adaptação dos projetos a outros contextos.
 Conheça a 1 ed. do Lab de Emergência e outros laboratórios que realizamos aqui:
 [Laboratórios da Silo](https://silo.org.br/interactivos/){:target="_blank"}
-
-
-**E veja a documentação de outras edições:**
-
-   
-[![](/2ed/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}

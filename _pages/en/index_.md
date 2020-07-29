@@ -16,9 +16,3 @@ Through two open calls, one for projects and one for collaborators, the Lab seek
 The Emergency Laboratory is a collaborative proposal that works on the development of projects under the participative logic using free licenses that allow replication and adaptation of projects to other contexts.
 Get to know the first edition of the Emergency Lab and other Silo laboratories:
 [Silo Labs](https://silo.org.br/interactivos/){:target="_blank"}
-
-  
-**Past editions:**
-
-   
-[![](/2ed/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
