@@ -4,8 +4,8 @@ title: MANIFÃO
 proponent:
   - name: Chris Tigra -  Belo Horizonte, MG
     url: http://www.christigra.com
-  - name: Yannick Falisse
-    url: http://www.yannickfalisse.com.br/
+  - name: Yann F
+    url: 
 cover: media/images/covers/manif.png
 permalink: /pt/manifao/
 people:
@@ -36,7 +36,7 @@ Dentre as funcionalidades da plataforma desenvolvidas e/ ou ativadas estão fun�
 [INSTAGRAM DO MANIFÃO](https://www.instagram.com/manifao/){:target="_blank"}
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vAt2K0fKtBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3HfG7XG8yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
